@@ -1,0 +1,778 @@
+﻿Scopus
+EXPORT DATE: 17 October 2024
+
+Biel M.
+AUTHOR FULL NAMES: Biel, Magdalena (57913188700)
+57913188700
+FAMILY OWNERSHIP AS A FACTOR INFLUENCING THE CHOICE OF GOALS OF FAMILY BUSINESSES [WŁASNOŚĆ RODZINNA JAKO CZYNNIK WPŁYWAJĄCY NA WYBÓR CELÓW FIRM RODZINNYCH]
+(2024) Polish Journal of Management Studies, 29 (2), pp. 121 - 137, Cited 0 times.
+DOI: 10.17512/pjms.2024.29.2.06
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201621883&doi=10.17512%2fpjms.2024.29.2.06&partnerID=40&md5=d71cf068e32c4056e8693dfc47b6cd18
+
+AFFILIATIONS: Czestochowa University of Technology, Faculty of Management, Poland
+ABSTRACT: Family businesses are enterprises characterized by a specific, broad set of goals of family and business nature, which can be in conflict with each other. The purpose of this article is to examine the impact of selected ownership-related factors on the process of setting the goals of family businesses, and more specifically, on the choice between alternative family and business goals. The data necessary for the analysis was collected through surveys of 300 family businesses managers. The hypotheses were verified using the non-parametric chi-square test. The analyses carried out showed that, of the determinants studied, the family’s share in the ownership of the business (whether family members are the only owners or whether there is a non-family partner in the company) is the greatest importance, while the number of family owners (one vs. at least two) does not significantly affect the choice between goals. This article makes an important contribution to research on family business, as it shows the role of family ownership factors in the process of choosing between alternative family and business goals. Such an approach is not very popular in the literature on the subject, but it is a valuable addition to existing approaches. © 2024, Czestochowa University of Technology. All rights reserved.
+AUTHOR KEYWORDS: family business; family business goals; family ownership; goal selection
+REFERENCES: Aparicio G., Basco R., Iturralde T., Maseda A., An exploratory study of firm goals in the context of family firms: An institutional logics perspective, Journal of Family Business Strategy, 8, 3, pp. 157-169, (2017); 
+Basco R., The effect of family-oriented objectives on board composition (No. 27), (2012); 
+Basco R., Where do you want to take your family firm?” A theoretical and empirical exploratory study of family business goals, BRQ Business Research Quarterly, 20, 1, pp. 28-44, (2017); 
+Belda-Ruiz M., Sanchez-Marin G., Baixauli-Soler J. S., Influence of family-centered goals on dividend policy in family firms: A socioemotional wealth approach, International Entrepreneurship and Management Journal, 18, 4, pp. 1503-1526, (2022); 
+Benjamin S. J., Wasiuzzaman S., Mokhtarinia H., Rezaie Nejad N., Family ownership and dividend payout in Malaysia, International Journal of Managerial Finance, 12, 3, pp. 314-334, (2016); 
+Biel M., Slusarczyk B., Family Business and Management: Objectives, Theory, and Practice, (2023); 
+Biel M., Slusarczyk B., Management methods and tools in family businesses: Impact on the effectiveness of achieving goals, Journal of International Studies, 15(4), 180-195, (2022); 
+Blanzo-Mazagatos V., Delgado-Garcia J. B., Barrero J. P., Involvement of multiple generations in management and internationalization of family firms in Spain: the moderating effect of SEW dimensions, Journal of Family Business Management, 14, 1, pp. 153-170, (2024); 
+Block J., Ulrich L., Are family owners and managers good stewards in global crises? Evidence from stock market reactions to Covid-19, Journal of Family Business Strategy, 14, 1, (2023); 
+Borralho J., Duarte M. I., Determinants of Dividend Payout in Unlisted Spanish Family and Non-Family Firms, European Journal of Family Business, 12, 2, pp. 124-136, (2022); 
+Chen S., Chen X., Cheng Q., Shevlin T., Are family firms more tax aggressive than non-family firms?, Journal of Financial Economics, 95, 1, pp. 41-61, (2010); 
+Cho J., Miller D., Lee J., Too much of a good thing: Family involvement and the survival of listed Korean firms, Journal of Family Business Strategy, 9, 4, pp. 223-237, (2018); 
+Chrisman J. J., Chua J. H., Litz R. A., Comparing the agency costs of family and non–family firms: Conceptual issues and exploratory evidence, Entrepreneurship Theory and Practice, 28, 4, pp. 335-354, (2004); 
+Chrisman J. J., Chua J. H., Pearson A. W., Barnett T., Family involvement, family influence, and family–centered non–economic goals in small firms, Entrepreneurship Theory and Practice, 36, 2, pp. 267-293, (2012); 
+Chrisman J. J., Memili E., Misra K., Nonfamily managers, family firms, and the winner's curse: The influence of noneconomic goals and bounded rationality, Entrepreneurship Theory and Practice, 38, 5, pp. 1-25, (2014); 
+Chua J. H., Chrisman J. J., De Massis A., Wang H., Reflections on family firm goals and the assessment of performance, Journal of Family Business Strategy, 9, 2, pp. 107-113, (2018); 
+Civelek M., Kljucnikov A., Fialova V., Folvarcna A., Stoch M., Major obstacles in innovative activities of family-owned SMEs: Evidence from Czechia, Economics and Sociology, 14, 2, pp. 137-149, (2021); 
+Chwilkowska-Kubala A., Malewska K., Mierzejewska K., The importance of resources in achieving the goals of energy companies, Engineering Management in Production and Services, 15, 3, pp. 53-68, (2023); 
+Cruz C., Nordqvist M., Entrepreneurial orientation in family firms: A generational perspective, Small Business Economics, 38, pp. 33-49, (2012); 
+Cruz C., Larraza-Kintana M., Garces-Galdeano L., Berrone P., Are family firms really more socially responsible?, Entrepreneurship Theory and Practice, 38, pp. 1295-1316, (2014); 
+Davis J. A., Tagiuri R., The influence of life stage on father‐son work relationships in family companies, Family Business Review, 2, 1, pp. 47-74, (1989); 
+De Massis A., Kotlar J., Campopiano G., Cassia L., Dispersion of family ownership and the performance of small-to-medium size private family firms, Journal of Family Business Strategy, 4, 3, pp. 166-175, (2013); 
+De Massis A., Kotlar J., Mazzola P., Minola T., Sciascia S., Conflicting selves: Family owners' multiple goals and self-control agency problems in private firms, Entrepreneurship Theory and Practice, 42, 3, pp. 362-389, (2016); 
+Della Piana B., Vecchi A., Marino V., D'arco M., How do family firms grow? The strategic goals of innovation and internationalization, International Journal of Business and Management, 14, 2, (2019); 
+Diaz-Moriana V., Clinton E., Kammerlander N., Untangling goal tensions in family firms: A sensemaking approach, Journal of Management Studies, 61, 1, pp. 69-109, (2024); 
+Domanska A., Zajkowski R., Barriers to gaining support: a prospect of entrepreneurial activity of family and non-family firms in Poland. Equilibrium, Quarterly Journal of Economics and Economic Policy, 17, 1, pp. 191-224, (2022); 
+Esparza Aguilar J. L., Corporate social responsibility practices developed by Mexican family and non-family businesses, Journal of Family Business Management, 9, 1, pp. 40-53, (2019); 
+Fabel O., Minarikova D., Hopp C., Differences and similarities in executive hiring decisions of family and non-family firms, Journal of Family Business Strategy, 13, 2, (2022); 
+Fang H. C., Memili E., Chrisman J. J., Tang L., Narrow‐framing and risk preferences in family and non‐family firms, Journal of Management Studies, 58, 1, pp. 201-235, (2021); 
+Forcadell F. J., Ubeda F., Zuniga-Vicente J. A., Initial resource heterogeneity differences between family and non-family firms: Implications for resource acquisition and resource generation, Long Range Planning, 51, 5, pp. 693-719, (2018); 
+Gersick K.E., Davis J.A., Hampton M., Lansberg I., Generation to Generation Life Cycles of the Family Business, (1997); 
+Glodowska A., Wach K., Entrepreneurship research in Central and Eastern Europe: A systematic literature review and bibliometric analysis, Journal of International Studies, 15, 3, pp. 201-214, (2022); 
+Gonzalez L. O., Gil L. I. R., Santomil P. D., Herrera A. T., Ownership, board, and enterprise risk management, European Journal of Family Business, 10, 1, pp. 44-55, (2020); 
+Graves C., Shi H. X., Barbera F., Family-centred non-economic goals and the internationalisation of family firms: Evidence from Australia, International Business Review, 31, 4, (2022); 
+Hernandez-Linares R., Lopez-Fernandez M. C., Entrepreneurial orientation, learning orientation, market orientation, and organizational performance: Family firms versus non-family firms, European Journal of Family Business, 10, 1, pp. 6-19, (2020); 
+Hernandez-Trasobares A., Galve-Gorriz C., Diversification and family control as determinants of performance: A study of listed business groups, European Research on Management and Business Economics, 23, 1, pp. 46-54, (2017); 
+Hillebrand S., Innovation in family firms–a generational perspective, Journal of Family Business Management, 9, 2, pp. 126-148, (2019); 
+Hradsky O., Comparison of remuneration in family and non-family firms in the Czech Republic, Journal of Family Business Management, 10, 3, pp. 265-276, (2020); 
+Junsheng Dou N. W., Su E., Fang H., Memili E., Goal complexity in family firm diversification: Evidence from China, Journal of Family Business Strategy, 11, 1, pp. 100-310, (2020); 
+Kinias I., The performance of family firms during crisis periods: the case of Greece, European Journal of Family Business, 12, 1, pp. 63-79, (2022); 
+Kobylinska U., Ryciuk U., Selected contextual factors and entrepreneurial intentions of students on the example of Poland, Engineering Management in Production and Services, 14, 3, pp. 13-27, (2022); 
+Kotey B., Are performance differences between family and non‐family SMEs uniform across all firm sizes?, International Journal of Entrepreneurial Behavior and Research, 11, 6, pp. 394-421, (2005); 
+Kroslakova M. N., Khouri S., Cvirik M., Tomaskova A., Drabik P., Derkawi H., The business environment of family enterprises in Slovakia-perception of external barriers, Polish Journal of Management Studies, 24, 2, pp. 321-335, (2021); 
+Kurniawan D., Ardyan E., Impacts of Company Size, Company Age, and the Generation of the Leader on Firm Performance, Binus Business Review, 13, 3, pp. 273-283, (2022); 
+Laffranchini G., Hadjimarcou J., Kim S. H., The first turnaround response of family firms in a crisis situation, Journal of Family Business Strategy, 13, 1, (2022); 
+Lee E. J., Chae J., Lee Y. K., Family ownership and risk taking, Finance Research Letters, 25, pp. 69-75, (2018); 
+Lee Y. G., Marshall M. I., Goal orientation and performance of family businesses, Journal of Family and Economic Issues, 34, pp. 265-274, (2013); 
+Lopez-Delgado P., Dieguez-Soto J., Lone founders, types of private family businesses and firm performance, Journal of Family Business Strategy, 6, 2, pp. 73-85, (2015); 
+Lussier R. N., Sonfield M. C., A six‐country study of first‐, second‐, and third-generation family businesses, International Journal of Entrepreneurial Behavior and Research, 16, 5, pp. 414-436, (2010); 
+Lusnakova Z., Jurickova Z., Sajbidorova M., Lencesova S., Succession as a sustainability factor of family business in Slovakia. Equilibrium, Quarterly Journal of Economics and Economic Policy, 14, 3, pp. 503-520, (2019); 
+Lwango A., Coeurderoy R, Gimenez Roche G. A., Family influence and SME performance under conditions of firm size and age, Journal of Small Business and Enterprise Development, 24, 3, pp. 629-648, (2017); 
+McPherson M., Business practices within South Asian family and non‐family firms: A comparative study, International Journal of Entrepreneurial Behavior and Research, 16, 5, pp. 389-413, (2010); 
+Miller D., Amore M. D., Quarato F., Corbetta G., Family ownership dispersion and dividend payout in family firms, Journal of Family Business Strategy, 13, 3, (2022); 
+Mishchuk H., Samoliuk N., Yurchyk H., Decent work: evaluation and ensuring in human capital management: monograph, (2021); 
+Mondal A., Ray S., Lahiri S., Family ownership, family management, and multinationality: Evidence from India, Journal of Business Research, 138, pp. 347-359, (2022); 
+Moresova M., Sedliacikova M., Drabek J., Suler P., Vetrakova M., The impact of internal determinants on management of family business in Slovakia, Polish Journal of Management Studies, 24, 2, pp. 307-320, (2021); 
+Pieper T. M., Williams R. I., Manley S. C., Matthews L. M., What time may tell: An exploratory study of the relationship between religiosity, temporal orientation, and goals in family business, Journal of Business Ethics, 163, 4, pp. 759-773, (2020); 
+Pimentel D., Non-family employees: levels of job satisfaction and organizational justice in small and medium-sized family and non-family firms, European Journal of Family Business, 8, 2, pp. 93-102, (2018); 
+Poutziouris P., Savva C. S., Hadjielias E., Family involvement and firm performance: Evidence from UK listed firms, Journal of Family Business Strategy, 6, 1, pp. 14-32, (2015); 
+Putri A. C., Viverita V., Risk preference of founder and descendant of Indonesian family firms, Polish Journal of Management Studies, 20, 2, pp. 414-425, (2019); 
+Raghavan S., Goal setting for family firm owners: An agency-stewardship perspective, Corporate Ownership and Control, 21, 2, pp. 8-16, (2024); 
+Ratten V., Editorial: A new definitionof family business, Journal of Family Business Management, 13, 3, (2023); 
+Razzak M. R., Jassem S., Socioemotional wealth and performance in private family firms: The mediation effect of family commitment, Journal of Family Business Management, 9, 4, pp. 468-496, (2019); 
+Samsami M., Schott T., Family and non-family businesses in Iran: coupling among innovation, internationalization and growth-expectation, European Journal of Family Business, 11, pp. 40-55, (2021); 
+Sedliacikova M., Moresova M., Stasiak-Betlejewska R., Drabek J., Schmidtova J., The use of controlling as a tool of competitiveness in family and non-family businesses in transition economies, Polish Journal of Management Studies, 26, 1, pp. 250-270, (2022); 
+Soler I. P., Gemar G., Guerrero-Murillo R., Family and non-family business behaviour in the wine sector: A comparative study, European Journal of Family Business, 7, 1-2, pp. 65-73, (2017); 
+Spanos L., Tsipouri L., Xanthakis M., Corporate governance rating of family firms at the Athens exchange market, Managerial Finance, 34, 7, pp. 465-478, (2008); 
+Slusarczyk B., Baryn M., Generation Matters? The Approach of the Family Business Representatives of Different Generations to Selected Aspects of Their Functioning (pp. 25-26), Innovation Management and Education Excellence Through Vision 2020, (2018); 
+Slusarczyk B., Moghavvemi S., Tehseen S., Women and business: Empirical study on economic constraints, legal conditions, and social support influencing women entrepreneurs in Malaysia and Poland, Entrepreneurial Business and Economics Review, 11, 2, pp. 87-102, (2023); 
+Tuksatit N., Rajiani I., Entrepreneurial Drivers of Innovation Success–International Business Perspectives, Global Journal of Entrepreneurship and Management, 1, 1, pp. 1-15, (2020); 
+Urkiola E., Anasagasti M. A., Internationalization and family firms: The influence of family involvement on exports, European Journal of Family Business, 12, 2, pp. 173-183, (2022); 
+Vajdovich N., Heidrich B., Nemeth S., Nemeth K., Closer to the heart: An analysis of the goals of Hungarian family-owned wineries, Forum on Economics and Business/Közgazdász Fórum, 24, 2, pp. 22-48, (2021); 
+Vazquez P., Rocha H., On the goals of family firms: A review and integration, Journal of Family Business Strategy, 9, 2, pp. 94-106, (2018); 
+Veider V., Kallmuenzer A., Assessing long-term orientation among founder-and descendant-led firms, Journal of Family Business Management, 6, 1, pp. 2-22, (2016); 
+Wang K. T., Shailer G., Family ownership and financial performance relations in emerging markets, International Review of Economics and Finance, 51, pp. 82-98, (2017); 
+Westhead P., Company performance and objectives reported by first and multi-generation family companies: a research note, Journal of Small Business and Enterprise Development, 10, 1, pp. 93-105, (2003); 
+Westhead P., Cowling M., Performance contrasts between family and non‐family unquoted companies in the UK, International Journal of Entrepreneurial Behavior and Research, 3, 1, pp. 30-52, (1997); 
+Weclawski J., Zukowska B., Refreshing typologies based on family firms’ goals: the perspective of “first-generation enterprises”, Central European Management Journal, 27, pp. 128-146, (2019); 
+Wiecek-Janka E., Wiodące wartości w zarządzaniu przedsiębiorstwami rodzinnymi, (2013); 
+Williams R. I., Pieper T. M., Kellermanns F. W., Astrachan J. H., Family firm goals and their effects on strategy, family and organization behavior: A review and research agenda, International Journal of Management Reviews, 20, pp. 63-82, (2018); 
+Williams R. I., Pieper T., Kellermanns F., Astrachan J., Applying an organizational effectiveness approach to measure family business performance, Journal of Family Business Management, 9, 3, pp. 349-374, (2019); 
+Williams R. I., Matthews L. M., Manley S. C., What Goals do Firms with Religious Owning Families Achieve: An Exploratory Study, Journal of Ethics and Entrepreneurship, 10, 1, pp. 4-23, (2020); 
+Williams R. I., Pieper T. M., Kellermanns F. W., Astrachan J. H., Family business goal formation: A literature review and discussion of alternative algorithms, Management Review Quarterly, 69, pp. 329-349, (2019); 
+Zellweger T. M., Nason R. S., Nordqvist M., Brush C. G., Why do family firms strive for nonfinancial goals? An organizational identity perspective, Entrepreneurship Theory and Practice, 37, 2, pp. 229-248, (2013); 
+Zhang X., Venus J., Wang Y., Family ownership and business expansion of small-and medium-sized Chinese family businesses: The mediating role of financing preference, Journal of Family Business Strategy, 3, 2, pp. 97-105, (2012)
+CORRESPONDENCE ADDRESS: M. Biel; Czestochowa University of Technology, Faculty of Management, Poland; email: magdalena.biel@pcz.pl
+PUBLISHER: Czestochowa University of Technology
+ISSN: 20817452
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Pol. J. Manag. Stud.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Abebe G., Gebreeyesus M.
+AUTHOR FULL NAMES: Abebe, Girum (57191838852); Gebreeyesus, Mulu (34569425800)
+57191838852; 34569425800
+How Well Do Worker Cooperatives Perform in Manufacturing? Evidence from a Large Low-Income Country
+(2024) Economic Development and Cultural Change, 72 (4), pp. 1993 - 2029, Cited 0 times.
+DOI: 10.1086/726179
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198477267&doi=10.1086%2f726179&partnerID=40&md5=0c1edf69d2bcc5ba9b85bbb17fdd012c
+
+AFFILIATIONS: Africa Region Gender Innovation Lab, World Bank, United States; Barnard College, Columbia University, United States
+ABSTRACT: This study uses enterprise data from Ethiopia, a developing country, to contribute to a relatively underexplored topic on determinants of cooperative formation and their performance vis-à-vis conventional enterprises. We find that cooperatives are more likely to be formed by entrepreneurs who have low human capital and limited within-family entrepreneurial experience and less likely to engage in capital accumulation and in upgrading, which has implications for their long-term prospects. As a result, they are less efficiently operated, earn lower profits, and grow much more slowly than conventional enterprises. Our results cast doubt on the viability of using cooperatives to support business development and entrepreneurial transformation. © 2024 The University of Chicago. All rights reserved.
+INDEX KEYWORDS: Ethiopia; business development; human capital; low income population; manufacturing; performance assessment
+FUNDING DETAILS: International Development Research Centre, IDRC
+FUNDING DETAILS: Utenriksdepartementet
+FUNDING DETAILS: European Commission, EC
+FUNDING TEXT 1: We would like to thank the International Development Research Centre, the Norwegian Ministry of Foreign Affairs, and the European Union for funding the data collection and analysis. We are also grateful to Abebe Ambachew for his excellent survey coordination and research assistance. We thank Michael Koelle and Daniel Agness for their insightful comments on an earlier draft. We also thank Alemayehu Woldu for editorial support. Input from conference participants at the University of Oxford and the Ethiopian Development Research Institute is greatly appreciated. The usual disclaimer applies; all errors and omissions are those of the authors. Contact the corresponding author, Girum Abebe, at gtefera@worldbank.org.
+REFERENCES: Alchian A., Demsetz H., Production, Information Costs, and Economic Organization, American Economic Review, 62, 5, pp. 777-795, (1972); 
+Alves G., Burdin G., Dean A., Workplace Democracy and Job Flows, Journal of Comparative Economics, 44, 2, pp. 258-271, (2016); 
+Ang J. S., Cole R. A., Lin, Agency Costs and Ownership Structure, Journal of Finance, 55, 1, pp. 81-106, (2000); 
+Arando S., Gago M., Jones D. C., Kato T., Efficiency in Employee-Owned Enterprises: An Econometric Case Study of Mondragon, Industrial and Labor Relations Review, 68, 2, pp. 398-425, (2015); 
+Azevedo A., Gitahy L., The Cooperative Movement, Self-Management, and Competitiveness: The Case of Mondragón Corporación Cooperativa, Working USA, 13, 1, pp. 5-29, (2010); 
+Banerjee A., Breza E., Duflo E., Kinnan C., Can Microfinance Unlock a Poverty Trap for Some Entrepreneurs?, (2019); 
+Bassi V., Muoio R., Porzio T., Sen R., Tugume E., Achieving Scale Col-lectively, Econometrica, 90, 6, pp. 2937-2978, (2022); 
+Baughn Christopher C., Cao Johnson S. R., Linh Thi My Le Linh Thi My Le, Lim Victor A., Neupert Kent E., Normative, Social and Cognitive Predictors of Entrepreneurial Interest in China, Vietnam and the Philippines, Journal of Developmental Entrepreneurship, 11, 1, pp. 57-77, (2006); 
+Becker Gary S., Human Capital, (1964); 
+Belloc F., What Deters Labor-Owned Firm Creation? Evidence from Italian Manufacturing Sectors, Journal of Comparative Economics, 45, 1, pp. 139-153, (2017); 
+Belloni Alexandre, Chernozhukov Victor, Hansen Christian, High-Dimensional Methods and Inference on Structural and Treatment Effects, Journal of Economic Perspectives, 28, 2, pp. 29-50, (2014); 
+Belloni Alexandre, Chernozhukov Victor, Hansen Christian, Inference on Treatment Effects after Selection among High-Dimensional Controls, Review of Economic Studies, 81, 2, pp. 608-650, (2014); 
+Ben-Ner A., On the Stability of the Cooperative Type of Organization, Journal of Comparative Economics, 8, 3, pp. 247-260, (1984); 
+Bryson A., Dorsett R., Purdon S., The Use of Propensity Score Matching in the Evaluation of Active Labour Market Policies, (2002); 
+Burdin G., Equality under Threat by the Talented: Evidence from Worker-Managed Firms, Economic Journal, 126, 594, pp. 1372-1403, (2016); 
+Burdin G., Dean A., New Evidence on Wages and Employment in Worker Cooperatives Compared with Capitalist Firms, Journal of Comparative Economics, 37, 4, pp. 517-533, (2009); 
+Burdin G., Dean A., Revisiting the Objectives of Worker-Managed Firms: An Empirical Assessment, Economic Systems, 36, 1, pp. 158-171, (2012); 
+Caliendo M., Kopeinig S., Some Practical Guidance for the Implementation of Propensity Score Matching, Journal of Economic Surveys, 22, 1, pp. 31-72, (2008); 
+Capelleras J. L., Contin-Pilart I., Larraza-Kintana M., Martin-Sanchez V., Entrepreneurs’ Human Capital and Growth Aspirations: The Moderating Role of Regional Entrepreneurial Culture, Small Business Economics, 52, 1, pp. 3-25, (2019); 
+Challita S., Sentis P., Aurier P., Do Cooperatives Perform Better Than Investor-Owned Firms? The Impact of Governance on Financial Structure and Per-formance, Cooperatives’ Power to Innovate”: Texts Selected from the International Call for Papers, pp. 503-519, (2014); 
+Couture M.-F., Faver D., Levin M., Nippierd A.-B., Transition to Cooperative Entrepreneurship: Case Studies from Armenia, China, Ethiopia, Ghana, Poland, Russia, Uganda and Vietnam, (2002); 
+Craig B., Pencavel J., The Behavior of Worker Cooperatives: The Plywood Companies of the Pacific Northwest, American Economic Review, 82, 5, pp. 1083-1105, (1992); 
+Crump R. K., Hotz V. J., Imbens G., Mitnik O., Moving the Goalposts: Addressing Limited Overlap in the Estimation of Average Treatment Effects by Changing the Estimand, (2006); 
+Dean A., Do Successful Worker-Managed Firms Degenerate?, Journal of Comparative Economics, 47, 2, pp. 317-329, (2019); 
+Djankov S., Qian Y., Roland G., Zhuravskaya E., Who Are China’s En-trepreneurs?, American Economic Review, 96, 2, pp. 348-352, (2006); 
+Emsley R., Lunt M., Pickles A., Dunn G., Implementing Double-Robust Estimators of Causal Effects, Stata Journal, 8, 3, pp. 334-353, (2008); 
+Evans D. S., Tests of Alternative Theories of Firm Growth, Journal of Political Economy, 95, 4, pp. 657-674, (1987); 
+Everding Jakob, Marcus Jan, The Effect of Unemployment on the Smok-ing Behavior of Couples, Health Economics, 29, 2, pp. 154-170, (2020); 
+Fakhfakh F., Perotin V., Gago M., Productivity, Capital, and Labor in Labor-Managed and Conventional Firms: An Investigation on French Data, Industrial and Labor Relations Review, 65, 4, pp. 847-879, (2012); 
+Micro and Small Enterprise Development Strategy, (1997); 
+Micro and Small Enterprise Development Policy and Strategy, (2011); 
+Freeman R. B., Blasi J. R., Kruse D. L., Introduction, Shared Capi-talism at Work: Employee Ownership, Profit and Gain Sharing, and Broad-Based Stock Options, pp. 1-37, (2010); 
+Hansen G., Organize Cooperative Businesses to Create Jobs, Guide to Local Economic Development: Participant Workbook, (2003); 
+Hansmann H., The Ownership of Enterprise, (1996); 
+Hashimoto M., Firm-Specific Human Capital as a Shared Investment, American Economic Review, 71, 3, pp. 475-482, (1981); 
+Holmstrom B., Moral Hazard in Teams, Bell Journal of Economics, 13, 2, pp. 324-340, (1982); 
+Horowitz A. R., Horowitz I., Quality Choice: Does It Matter Which Workers Own and Manage the Cooperative Firm?, Atlantic Economic Journal, 27, 4, pp. 394-409, (1999); 
+Iqbal Z., Hamid S. A., Stock Price and Operating Performance of ESOP Firms: A Time-Series Analysis, Quarterly Journal of Business and Economics, 39, 3, pp. 25-47, (2000); 
+Jones D. C., The Productive Efficiency of Italian Producer Cooperatives: Evidence from Conventional and Cooperative Firms, Cooperative Firms in Global Markets: Incidence, Viability and Economic Performance, 10, pp. 3-28, (2007); 
+Jovanovic B., Job Matching and the Theory of Turnover, Journal of Political Economy, 87, 5, pp. 972-990, (1979); 
+Kaboski J. P., Lipscomb M., Midrigan V., Pelnik C., How Important Are Investment Indivisibilities for Development? Experimental Evidence from Uganda, (2022); 
+Kalmi P., Exclusion from Employee Ownership: Evidence from Estonian Case Studies, Employee Participation, Firm Performance and Survival, 8, pp. 35-65, (2004); 
+Kaya A., Vereshchagina G., Partnerships versus Corporations: Moral Hazard, Sorting, and Ownership Structure, American Economic Review, 104, 1, pp. 291-307, (2014); 
+Kim E. H., Ouimet P., Broad-Based Employee Stock Ownership: Mo-tives and Outcomes, Journal of Finance, 69, 3, pp. 1273-1319, (2014); 
+Kim P. H., Aldrich H. E., Keister L. A., Access (not) Denied: The Impact of Financial, Human, and Cultural Capital on Entrepreneurial Entry in the United States, Small Business Economics, 27, 1, pp. 5-22, (2006); 
+Kimura Y., Knowledge Diffusion and Modernization of Rural Industrial Clus-ters: A Paper-Manufacturing Village in Northern Vietnam, World Development, 39, 12, pp. 2105-2118, (2011); 
+Kodama Y., New Role of Cooperatives in Ethiopia: The Case of Ethiopian Coffee Farmers Cooperatives, African Study Monographs, 35, pp. 87-108, (2007); 
+Kruse D., Does Employee Ownership Improve Performance?, IZA World of Labor, 2016, (2016); 
+Maietta O. W., Sena V., Shadow Price of Capital and the Furubotn– Pejovich Effect: Some Empirical Evidence for Italian Wine Cooperative, Applied Stochastic Models in Business and Industry, 24, pp. 495-505, (2008); 
+McKenzie David, Sansone Dario, Predicting Entrepreneurial Success Is Hard: Evidence from a Business Plan Competition in Nigeria, Journal of Development Economics, 141, (2019); 
+McKenzie David, Woodruff Christopher, Business Practices in Small Firms in Developing Countries, (2015); 
+O'Boyle E. H., Patel P. C., Gonzalez-Mule E., Employee Ownership and Firm Performance: A Meta-analysis, Human Resource Management Journal, 26, 4, pp. 425-448, (2016); 
+Okten Cagla, Osili Una Okonkwo, Social Networks and Credit Access in Indonesia, World Development, 32, 7, pp. 1225-1246, (2004); 
+Oyer P., Why Do Firms Use Incentives That Have No Incentive Effects?, Journal of Finance, 59, 4, pp. 1619-1650, (2004); 
+Pencavel J., Pistaferri L., Schivardi F., Wages, Employment, and Capital in Capitalist and Worker-Owned Firms, Industrial and Labor Relations Review, 60, 1, pp. 23-44, (2006); 
+Pendleton A., Characteristics of Workplaces with Financial Participation: Evidence from the Workplace Industrial Relations Survey, Industrial Relations Journal, 28, 2, pp. 103-119, (1997); 
+Pendleton A., Robinson A., Employee Stock Ownership, Involvement, and Productivity: An Interaction-Based Approach, Industrial and Labor Relations Review, 64, 1, pp. 3-29, (2010); 
+Perotin V., Worker Cooperatives: Good, Sustainable Jobs in the Community, Journal of Entrepreneurial and Organizational Diversity, 2, 2, pp. 34-47, (2013); 
+Perotin V., What Do We Really Know about Workers’ Co-operatives?, Mainstreaming Cooperation: An Alternative for the 21st Century, pp. 239-260, (2016); 
+Podivinsky J. M., Stewart G., Why Is Labour-Managed Firm Entry So Rare?: An Analysis of UK Manufacturing Data, Journal of Economic Behavior and Organization, 63, 1, pp. 177-192, (2007); 
+Rahmato D., The Unquiet Countryside: The Collapse of ‘Socialism’ and Rural Agitation, 1990 and 1991, Ethiopia in Change: Peasantry, Nationalism and Democracy, pp. 242-279, (1994); 
+Robinson A., Zhang H., Employee Share Ownership: Safeguarding Investments in Human Capital, British Journal of Industrial Relations, 43, 3, pp. 469-488, (2005); 
+Sabatini F., Modena F., Tortia E., Do Cooperative Enterprises Create Social Trust?, Small Business Economics, 42, 3, pp. 621-641, (2014); 
+Sonobe T., Akoten J. E., Otsuka K., An Exploration into the Successful Development of the Leather-Shoe Industry in Ethiopia, Review of Development Economics, 13, 4, pp. 719-736, (2009); 
+Valette J., Amadieu P., Sentis P., Cooperatives versus Corporations: Survival in the French Wine Industry, Journal of Wine Economics, 13, 3, pp. 328-354, (2018); 
+Vanek J., The General Theory of Labor-Managed Market Economies, (1970); 
+Woldehanna T., Amha W., Yonis M. B., Correlates of Business Survival: Empirical Evidence on Youth-Owned Micro and Small Enterprises in Urban Ethi-opia, IZA Journal of Development and Migration, 8, 1, pp. 1-26, (2018); 
+Wooldridge J. M., Inverse Probability Weighted Estimation for General Miss-ing Data Problems, Journal of Econometrics, 141, pp. 1281-1301, (2007); 
+Zeckhauser R. J., Horn M., Murphy K. J., Peltzman S., The Control and Performance of State-Owned Enterprises, Privatization and State-Owned Enter-prises, Lessons from the United States, Great Britain, and Canada, pp. 7-75, (1989)
+CORRESPONDENCE ADDRESS: G. Abebe; Africa Region Gender Innovation Lab, World Bank, United States; email: gtefera@worldbank.org
+PUBLISHER: University of Chicago Press
+ISSN: 00130079
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Econ. Dev. Cult. Change
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Vyas D.P., Mohapatra S., Marvada K.B.
+AUTHOR FULL NAMES: Vyas, Diti Pundrik (56979861300); Mohapatra, Subhalaxmi (57212499579); Marvada, Karan Bhoja (59243468900)
+56979861300; 57212499579; 59243468900
+To digitalize or not digitalize: scaling up dilemma at Karan Handicraft
+(2024) CASE Journal, 20 (4), pp. 812 - 836, Cited 0 times.
+DOI: 10.1108/TCJ-04-2023-0088
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200224195&doi=10.1108%2fTCJ-04-2023-0088&partnerID=40&md5=f083a9ea58032ded22a8a00b57b92a66
+
+AFFILIATIONS: School of Creative Practices and Entrepreneurship, Anant National University, Ahmedabad, India; Karan Handicraft, Bhuj, India
+ABSTRACT: Research methodology: The case study is based on field data including semi-structured interviews with the main protagonist and related stakeholders of Karan Handicraft, a leather craft artisan enterprise. After informed consent, the interviews with the craft artisan entrepreneurs of Karan Handicraft were conducted, transcribed and analysed verbatim in the respondents’ native language, Kutchi Gujarati. The authors also used archival data given by the company. In addition, secondary data from industry reports and business magazines was used to create the case. Case overview/synopsis: The case investigates the impact of digital technologies on the small handicraft artisan entrepreneurs by focusing on a family-run business of a leather craft. It traces the evolution of Karan Handicraft, based in Kutch district of Gujarat, India from the year 2007 to 2023. The third-generation artisan entrepreneur Karan Marvada attempted exploring the new-age social media platforms to showcase the products, modified his product designs to attract a new customer-base and adapted to digital marketing. However, in the wake of the crowding in the handicraft cluster, the central business problem that Karan was grappling with was, if he should scale up his artisanal entrepreneurial stint using electronic commerce (e-commerce) as a medium. Another allied issue is in such a scale-up, should he use e-commerce, i.e. as a medium of communication only or as a medium of both communication and delivery. While the latter may lead to scale, it may raise the challenge of not being able to preserve the traditional values of his ancestral business. Complexity academic level: This case involves various issues that arise in entrepreneurship management, such as decisions related to growth strategy (remain small and unique vs become large and mass scale), to maintain a physical presence vs digital presence and the form of digital presence, are dwelt upon. The case is aimed at graduate students in an entrepreneurship or family business course. It could also be taught in other courses that focus on innovation and social entrepreneurship. © 2024, Emerald Publishing Limited.
+AUTHOR KEYWORDS: Corporate growth; Creative industries; Digital marketing; E-commerce and small business; Entrepreneurship; Family business; Family firms; Growth strategy; Social media strategy; Social media strategy; SWOT
+CORRESPONDENCE ADDRESS: D.P. Vyas; School of Creative Practices and Entrepreneurship, Anant National University, Ahmedabad, India; email: diti.p.vyas@gmail.com
+PUBLISHER: Emerald Publishing
+ISSN: 15449106
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: CASE J.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kurowska-Pysz J., Czart P., Kot S.
+AUTHOR FULL NAMES: Kurowska-Pysz, Joanna (56299398300); Czart, Pawel (59242119200); Kot, Sebastian (36241816100)
+56299398300; 59242119200; 36241816100
+Familiness as a Determinant of Competitiveness of Family Businesses - The Organisational Effectiveness-Based Approach
+(2024) Journal of Competitiveness, 16 (2), pp. 182 - 209, Cited 0 times.
+DOI: 10.7441/joc.2024.02.10
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200139114&doi=10.7441%2fjoc.2024.02.10&partnerID=40&md5=8c14e01ccb8f67e0f9e84c45a26dc779
+
+AFFILIATIONS: WSB University in Dąbrowa Górnicza, Faculty of Applied Sciences, Poland; The Management Faculty, Czestochowa University of Technology, Poland; Faculty of Economics and Management Sciences, North-West University, Vaal Triangle Campus, Vanderbijlpark, South Africa
+ABSTRACT: This paper determines the profile of a family business that ensures the greatest engagement of family members in running a family business and has the strongest impact on the competitiveness of such an enterprise and its organisational effectiveness. The theoretical part addresses organisational effectiveness. It emphasises the variety of criteria and areas of its assessment and the relationships between organisational effectiveness and competitiveness. It discusses familiness as a unique resource and competitive advantage of family businesses. The analytical part presents the research methodology, including the authors' formula for calculating the measure of familiness and the procedure for identifying the profile of a family business, ensuring the greatest familiness engagement in business activities, which affects the organisational effectiveness and competitiveness of family businesses. This procedure was based on applying the gray system theory (GST). The research was based on the incomplete numerical induction method on a targeted sample of 200 family businesses operating in Poland that met the research criteria. The results show that the features most responsible for the highest engagement of familiness in the family enterprise are the territorial scope and size of the company, and the age of the family member involved in the activities of the enterprise. Small and medium-sized enterprises operating on the domestic market, in which a family member aged 36-45 is involved, generate the highest level of familiness in all seven researched areas of organisational effectiveness, including in the area of goals, and also generate the highest level of competitiveness of family businesses. © 2024 Tomas Bata University in ZlÃ­n. All rights reserved.
+AUTHOR KEYWORDS: competitiveness; familiness; family business; organisational effectiveness; the Grey System Theory
+REFERENCES: Al-Shaiba A., Al-Ghamdi S. G., Koc M., Measuring efficiency levels in Qatari organizations and causes of inefficiencies, International Journal of Engineering Business Management, 12, 1, (2020); 
+Astrachan J. H., Kolenko T. A., A neglected factor explaining family business success: Human resource practices, Family Business Review, 7, 3, pp. 251-262, (1994); 
+Astrachan J. H., Klein S. B., Smyrnios K. X., The F-PEC scale of family influence: A proposal for solving the family business definition problem, Family Business Review, 15, 1, pp. 45-58, (2002); 
+Barros I., Hernangomez J., Martin-Cruz N., Familiness and socioemotional wealth in Spanish family firms: An empirical examination, European Journal of Family Business, 7, 1-2, (2017); 
+Beck S., Prugl R., Walter K., Communicating the family firm brand: Antecedents and performance effects, European Management Journal, 38, 1, pp. 95-107, (2020); 
+Benacek V., Michalikova E., The factors of growth of small family businesses - A robust estimation of the behavioural consistency in panel data models, Prague Economic Papers, 25, 1, pp. 85-98, (2016); 
+Bequeath K. M., Family-firm leadership: A case study of an organizational family-firm leadership according to Bowen's family systems theory and Lewin's systems theory, (2014); 
+Berrone P., Cruz C., Gomez-Mejia L. R., Socioemotional wealth in family firms: Theoretical dimensions, assessment approaches, and agenda for future research, Family Business Review, 25, 3, pp. 262-264, (2012); 
+Birley S., Ng D., Godfrey A., The family and the business, Long Range Planning, 32, 6, pp. 598-608, (1999); 
+Brodny J., Tutak M., Grebski W., Bindzar P., Assessing the level of innovativeness of EU-27 countries and its relationship to economic, environmental, energy and social parameters, Journal of Open Innovation: Technology, Market, and Complexity, 9, 2, (2023); 
+Burns M., Et al., Constructivist grounded theory or interpretive phenomenology? Methodological choices within specific study contexts, International Journal of Qualitative Methods, 21, (2022); 
+Cameron K., Effectiveness as paradox: Consensus and conflict in conceptions of organizational effectiveness, Management Science, Organization Design, 32, 5, pp. 513-644, (1986); 
+Cavicchioli D., Bertoni D., Tesser F., Frisio D. G., What factors encourage intrafamily farm succession in mountain areas?, Mountain Research and Development, 35, 2, pp. 152-160, (2015); 
+Chiswell H. M., From generation to generation: Changing dimensions of intergenerational farm transfer, Sociologia Ruralis, 58, 1, pp. 104-125, (2018); 
+Chrisman J. J., Chua J. H., Litz R. A., Comparing the agency cost of family and nonfamily firms, Entrepreneurship Theory and Practice, 28, pp. 335-354, (2004); 
+Chrisman J. J., Chua J. H., Pearson A. W., Barnett T., Family involvement, family influence and family-centered non-economic goals in small firms, Entrepreneurship Theory & Practice, 36, 2, pp. 267-293, (2012); 
+Chrisman J. J., Sharma P., Steier L. P., Chua J. H., The influence of family goals, governance, and resources on firm outcomes, Entrepreneurship Theory and Practice, 37, 6, pp. 1249-1261, (2013); 
+Chua J. H., Chrisman J. J., Sharma P., Defining the family business by behavior, Entrepreneurship Theory and Practice, 23, 4, pp. 21-31, (1999); 
+Colbert B. A., The complex resource-based view: Implications for theory and practice in strategic human resource management, Academy of Management Review, 29, 3, pp. 341-358, (2004); 
+Craig J. B., Dibrell C., Davis P. S., Leveraging family‐based brand identity to enhance firm competitiveness and performance in family businesses, Journal of Small Business Management, 46, 3, pp. 351-371, (2008); 
+Cruz N. M., Barahona J. H., Perez V. M., The delight of efficiency, Universia Business Review, 14, pp. 56-67, (2007); 
+Dede N. P., Ayranci E., Exploring the connections among spiritual leadership, altruism, and trust in family businesses, Quality & Quantity, 48, 6, (2013); 
+Delcea C., Not black not even white definitively grey economic systems, Journal of Grey System, 26, 1, pp. 11-25, (2014); 
+Ding Z., Wu Y., Research on the development of family business in China, IFERA 2010 Family Business Forum in China: Opportunities and Challenges of Family Business, (2010); 
+El Masri T., Tekathen M., Magnan M., Boulianne E., Calibrating management control technologies and the dual identity of family firms, Qualitative Research in Accounting & Management, 14, 2, (2017); 
+Erkutlu H., The impact of transformational leadership on organizational and leadership effectiveness: The Turkish case, Journal of Management Development, 27, 7, pp. 708-726, (2008); 
+Fang H., Memili E., Chrisman J. J., Welsh D. H. B., Family firms' professionalization: Institutional theory and resource-based view perspectives, Small Business Institute Journal, 8, 2, (2012); 
+Fedyk W., Et al., Human resources management as a factor determining the organizational effectiveness of DMOs: A case study of RTOs in Poland, International Journal of Contemporary Hospitality Management, 33, 3, pp. 828-850, (2021); 
+Garces-Galdeano L., Larraza-Kintana M., Cruz C., Contin-Pilart I., Just about money? CEO satisfaction and firm performance in small family firms, Small Business Economy, 49, (2017); 
+Garcia P. O., Capitan A. O., Martinez J. M., Family and cultural capital: The perspective of familiness, Revista de Empresa Familiar, 4, 2, pp. 47-59, (2014); 
+Graves C. R., Venturing beyond the backyard: An examination of the internationalisation process of Australian small-to-medium-sized family-owned manufacturing enterprises, (2006); 
+Gupta V., Et al., Anglo vs. Asian family business: A cultural comparison and analysis, Journal of Asia Business Studies, 3, 2, pp. 46-55, (2009); 
+Habbershon T. G., Williams M. L., A resource-based framework for assessing the strategic advantages of family firms, Family Business Review, 12, 1, pp. 1-25, (1999); 
+Hammer M., The process audit, ToolKit. Harvard Business Review, (2007); 
+Handler W. C., The succession experience of the next generation, Family Business Review, 5, 3, (1992); 
+Hernandez-Linares R., Sarkar S., Lopez-Fernandez M. C., How has the family firm literature addressed its heterogeneity through classification systems? An integrated analysis, European Journal of Family Business, 7, 1-2, (2017); 
+Huang Y., Wang Y., Shu G., The application and research of a new combinatorial analysis and forecasting method in real estate area based on grey system theory and multivariate linear regression, Procedia Engineering, 15, pp. 4532-4537, (2011); 
+Jaskiewicz P., Gonzalez V. M., Menendez S., Schiereck D., Long‐run IPO performance analysis of German and Spanish family‐owned businesses, Family Business Review, 18, 3, pp. 179-202, (2005); 
+Kammerlander N., Ganter M., An attention-based view of family firm adaptation to discontinuous technological change: Exploring the role of family CEOs' noneconomic goals, Journal of Production Innovation Management, 32, 3, (2015); 
+Kaplan R. S., Norton D. S., The balanced scorecard, (2001); 
+Kellermanns F. W., Eddleston K., Feuding families: When conflict does a family firm good, Entrepreneurship Theory and Practice, 28, 3, (2004); 
+Kliestik T., Et al., Prediction of financial health of business entities in transition economies, (2018); 
+Kiselakova D., Sofrankova B., Cabinova V., Soltesova J., Analysis of enterprise performance and competitiveness to streamline managerial decisions, Polish Journal of Management Studies, 17, 2, pp. 101-111, (2018); 
+Krappe A., Goutas L., von Schlippe A., The “family business brand”: An enquiry into the construction of the image of family businesses, Journal of Family Business Management, 1, 1, pp. 37-46, (2011); 
+Lewin A. Y., Minton J. W., Determining organizational effectiveness: Another look, and an agenda for research, Management Science, 32, 5, (1986); 
+Liu C., Eubanks D. L., Chater N., The weakness of strong ties: Sampling bias, social ties, and nepotism in family business succession, Leadership Quarterly, 26, 3, pp. 419-435, (2015); 
+Liu S., Forrest J. Y. L., Grey systems: Theory and applications, (2010); 
+Makadok R., Toward a synthesis of the resource-based and dynamic-capability view of rent creation, Strategic Management Journal, 22, pp. 387-401, (2001); 
+Malbasic I., Marimon F., Mas-Machuca M., Is it worth having focused values?, Management Decision, 54, 10, (2016); 
+Maloni M. J., Hiatt M. S., Astrachan J. H., Supply management and family business: A review and call for research, Journal of Purchasing and Supply Management, 23, 2, (2017); 
+Marjanski A., Sulkowski L., The evolution of family entrepreneurship in Poland: Main findings based on surveys and interviews from 2009-2018, Entrepreneurial Business and Economics Review, 7, 1, pp. 95-116, (2019); 
+Monteiro A. P., Et al., The impact of information systems and non-financial information on company success, International Journal of Accounting Information Systems, 45, (2022); 
+Moreno-Gomez J., Lafuente E., Analysis of competitiveness in Colombian family businesses, Competitiveness Review, 30, 3, pp. 339-354, (2020); 
+Nordhaus W., Climate change: The ultimate challenge for economics, American Economic Review, 109, 6, pp. 1991-2014, (2019); 
+Nordqvist M., Familiness in top management teams: Commentary on Ensley and Pearson's “An exploratory comparison of the behavioral dynamics of top Piotr Tomski 130 management teams in family and nonfamily new ventures: Cohesion, conflict, potency and consensus, Entrepreneurship Theory and Practice, 29, pp. 285-292, (2005); 
+Pacana A., Ulewicz R., Research of determinants motiving to implement the environmental management system, Polish Journal of Management Studies, 16, 1, pp. 165-174, (2017); 
+Pizzi S., Del Baldo M., Caputo F., Venturelli A., Voluntary disclosure of sustainable development goals in mandatory non‐financial reports: The moderating role of cultural dimension, Journal of International Financial Management & Accounting, 33, 1, pp. 83-106, (2022); 
+Rahman M. S., Hossain M. A., Chowdhury A. H., Hoque M. T., Role of enterprise information system management in enhancing firms competitive performance towards achieving SDGs during and after COVID-19 pandemic, Journal of Enterprise Information Management, 35, 1, pp. 214-236, (2022); 
+Ramirez-Solis E. R., Banos-Monroy V. I., Rodriguez-Aceves L., Could nosy family members be a competitive advantage? Familiness and performance in Mexican family firms, The Palgrave handbook of heterogeneity among family firms, pp. 933-960, (2019); 
+Ratten V., Et al., Family entrepreneurship and internationalization strategies, Review of International Business and Strategy, 27, 2, (2017); 
+Rummler G. A., Brache A. P., Podnoszenie efektywności organizacji, (2000); 
+Rutherford M. W., Kuratko S. F., Holt D. T., Examining the link between “Familiness” and performance: Can the F-PEC untangle the family business theory jungle?, Entrepreneurship Theory and Practice, 32, 6, (2008); 
+Ruzekova V., Kittova Z., Steinhauser D., Export performance as a measurement of competitiveness, Journal of Competitiveness, 12, 1, pp. 145-160, (2020); 
+Sanchez P. P. I., Maldonado C. J., de las Heras Pedrosa C., Innovation and marketing: Keys for competitiveness in family firms, European Journal of Family Business, 5, 1, (2015); 
+Schroder E., Schmitt-Rodermund E., Arnaud N., Career choice intentions of adolescents with a family business background, Family Business Review, 24, 4, (2011); 
+Schulze W. S., Lubatkin M. H., Dino R. N., Altruism, agency, and the competitiveness of family firms, Managerial and Decision Economics, 23, 4‐5, pp. 247-259, (2002); 
+Sharma N., Singh R. K., A unified model of organizational effectiveness, Journal of Organizational Effectiveness, 6, 2, (2019); 
+Shinnar R. S., Cho S., Rogoff E. G., Outcomes of family involvement in minority owned family businesses, Journal of Family Business Strategy, 4, 1, (2013); 
+Simon A., Et al., Exploring value differences across family firms: The influence of choosing and managing complexity, Journal of Family Business Strategy, 3, 3, (2012); 
+Skackauskiene I., Et al., Assessment of sustainable economic facets: Peculiarities of family businesses size in selected economies, Journal of Security and Sustainability Issues, 9, 1, (2019); 
+Slavek N., Jovic A., Application of grey system theory to software projects ranking, Automatika: Journal for Control, Measurement, Electronics, Computing and Communications, 53, 3, pp. 284-293, (2012); 
+Steers R. M., Problems in the measurement of organizational effectiveness, Administrative Science Quarterly, 20, 4, (1975); 
+Tabor J., A grey-based decision-making approach to the improvement of OHS management system, Polish Journal of Management Studies, 18, 1, pp. 389-402, (2018); 
+Tabor J., Ranking of management factors for safe maintenance system based on Grey Systems Theory, Production Engineering Archives, 27, 3, pp. 196-202, (2021); 
+Taylor F., The principles of scientific management, (1919); 
+Wach K., Familiness and born globals: Rapid internationalisation among Polish family firms, Journal of Intercultural Management, 6, 3, pp. 177-186, (2014); 
+Wang X., Xu Z., Qin Y., Skare M., The role of digital technologies in firms' performance: A panel data study on family firms and SMEs, Journal of Competitiveness, 15, 2, pp. 151-166, (2023); 
+Whetten D., Foreman P., Dyer W. G., Organizational identity and family business, The SAGE handbook of family business, pp. 480-497, (2014); 
+Wiecek-Janka E., Przegląd typologii przedsiębiorstw rodzinnych, Marketing i Zarządzanie, 2, 43, (2016); 
+Wiecek-Janka E., Et al., Application of grey systems theory in the analysis of data obtained from family business, European Research Studies Journal, 24, 1, pp. 494-510, (2001); 
+Wiecek-Janka E., Contreras Loera M. R., Kijewska J., Tirado G., Family and business in family enterprises in countries of low and high-context cultures-Research conducted using grey system theory, Zeszyty Naukowe Politechniki Poznańskiej. Organizacja i Zarządzanie, (2016); 
+Wiecek-Janka E., Mierzwiak R., Kijewska J., The analysis of barriers in succession processes of family business with the use of grey incidence analysis (Polish perspective), Naše gospodarstvo/Our Economy, 62, 2, pp. 33-41, (2016); 
+Wiecek-Janka E., Nowak M., Borowiec A., Application of the GDM model in the diagnosis of crises in family businesses, Grey Systems: Theory and Application, 9, 1, pp. 114-127, (2019); 
+Williams R. I., Et al., Applying an organizational effectiveness approach to measure family business performance, Journal of Family Business Management, 9, 3, (2019); 
+Wilson J., Tonner A., Doing family: The constructed meanings of family in family farms, Journal of Rural Studies, 78, pp. 245-253, (2020); 
+Xin W., Application of grey system theory in the enterprise supply chain collaboration strategy, International Journal of Grid and Distributed Computing, 8, 4, pp. 233-242, (2015)
+PUBLISHER: Tomas Bata University in Zlín
+ISSN: 1804171X
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: J. Compet.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hu Y., Wu J., Zhu L.
+AUTHOR FULL NAMES: Hu, Yuheng (58849607800); Wu, Jiong (57218419445); Zhu, Lei (58849844700)
+58849607800; 57218419445; 58849844700
+Inter-generational governance transition in Chinese family businesses: Relational or contractual?
+(2024) International Review of Economics and Finance, 95, art. no. 103493, Cited 0 times.
+DOI: 10.1016/j.iref.2024.103493
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200854725&doi=10.1016%2fj.iref.2024.103493&partnerID=40&md5=b48046fd9d1371526eae0814855233a0
+
+AFFILIATIONS: Glorious Sun School of Business and Management, Donghua University, Shanghai, 200051, China; North Carolina State University, Raleigh, 27695, NC, United States
+ABSTRACT: Inter-generational succession in family enterprises influences internal governance models, and their relationship is mediated by the successor's socialization process. Drawing on the enterprise capability theory, the author employed a survey method to examine the relationship between cognitive assets held by family enterprise successors and two governance modes. The findings confirm that tacit knowledge, relational networks, and entrepreneurial spirit among family enterprise successors positively influence their socialization roles, thereby triggering governance adaptation. Specifically, relational governance is continuously strengthened, while contractual governance exhibits an inverted U-shaped trend. Organizational conventions play a positively moderating role in this influencing process. This study extends the application boundaries of enterprise capability theory, deepens the understanding of enterprise cognitive systems, enriches the literature on the relationship between relational and contractual governance, and provides theoretical foundations for inter-generational governance in family enterprises. © 2024 Elsevier Inc.
+AUTHOR KEYWORDS: Contractual governance; Family business; Inter-generational succession; Relational governance
+FUNDING DETAILS: Ministry of Education of the People's Republic of China, MOE
+FUNDING DETAILS: Philosophy and Social Sciences
+FUNDING DETAILS: National Office for Philosophy and Social Sciences, NPOPSS, 21BGL010
+FUNDING DETAILS: Science Foundation of Ministry of Education of China, 23JHQ023
+FUNDING DETAILS: Fundamental Research Funds for the Central Universities and Graduate Student Innovation Fund of Donghua University, CUSF-DH-D-2023052
+FUNDING TEXT 1: The authors acknowledge the financial support from Philosophy and Social Sciences, Ministry of Education, China (No.23JHQ023). 
+FUNDING TEXT 2: The authors acknowledge the financial support from National Social Science Fund of China (No.21BGL010). 
+FUNDING TEXT 3: The authors acknowledge the financial support from National Social Science Fund of China (No. 21BGL010), Social Science Foundation of Ministry of Education of China (No.23JHQ023) and Fundamental Research Funds for the Central Universities and Graduate Student Innovation Fund of Donghua University (No. CUSF-DH-D-2023052).
+FUNDING TEXT 4: The authors acknowledge the financial support from Fundamental Research Funds for the Central Universities and Graduate Student Innovation Fund of Donghua University (No. CUSF-DH-D-2023052).
+REFERENCES: Abdi M., Aulakh P.S., Locus of uncertainty and the relationship between contractual and relational governance in cross-border interfirm relationships, Journal of Management, 43, 3, pp. 771-803, (2017); 
+Bammens Y., Voordeckers W., Van Gils A., Boards of directors in family firms: A generational perspective, Small Business Economics, 31, 2, pp. 163-180, (2008); 
+Basco R., Calabro A., Campopiano G., Transgenerational entrepreneurship around the world: Implications for family business research and practice, Journal of Family Business Strategy, 10, 4, (2019); 
+Cabrera-Suarez K., De Saa-Perez P., Garcia-Almeida D., The succession process from a resource-and knowledge-based view of the family firm, Family Business Review, 14, 1, pp. 37-46, (2001); 
+Cabrera-Suarez M.K., Deniz-Deniz M.D.C., Martin-Santana J.D., The setting of non-financial goals in the family firm: The influence of family climate and identification, Journal of Family Business Strategy, 5, 3, pp. 289-299, (2014); 
+Calabro A., Minichilli A., Amore M.D., Brogi M., The courage to choose! Primogeniture and leadership succession in family firms, Strategic Management Journal, 39, 7, pp. 2014-2035, (2018); 
+Cannon-Bowers J.A., Salas E., Converse S., Shared mental models in expert team decision making, (1993); 
+Chen L., Yang B., Jing R., CEO paternalistic leadership and TMT effectiveness: The mediating role of team cohesion, Journal of Industrial Engineering and Engineering Management, 26, 1, pp. 13-19, (2012); 
+Chrisman J.J., Chua J.H., Le Breton-Miller I., Miller D., Steier L.P., Governance mechanisms and family firms, Entrepreneurship Theory and Practice, 42, 2, pp. 171-186, (2018); 
+Collins C.J., Smith K.G., Knowledge exchange and combination: The role of human resource practices in the performance of high-technology firms, Academy of Management Journal, 49, 3, pp. 544-560, (2006); 
+Cooke N.J., Gorman J.C., Myers C.W., Duran J.L., Interactive Team Cognition. Cognitive Science, 37, 2, pp. 255-285, (2013); 
+Dang X., Sun Y., Song J., Impacts of ambidextrous innovation on network routines in different inter-organizational trust contexts, Journal of Management Science, 26, 4, pp. 25-34, (2013); 
+Djurdjevic E., Stoverink A.C., Klotz A.C., Koopman J., Veiga S.P.D., Yam K.C., Chiang J.T.J., Workplace status: The development and validation of a scale, Journal of Applied Psychology, 102, 7, pp. 1124-1147, (2017); 
+Dou J., Jia S., Why is “family business” evergreen--Identification of inter-generational inheritance elements of family businesses at the individual level of entrepreneurs, Management World, 180, 9, pp. 105-117, (2008); 
+Dyer W.G., Dyer W.J., Putting the family into family business research, Family Business Review, 22, 3, pp. 216-219, (2009); 
+Feldman M.S., Pentland B.T., Reconceptualizing organizational routines as a source of flexibility and change, Administrative Science Quarterly, 48, 1, pp. 94-118, (2003); 
+Fisher C.D., Organizational socialization: An integrative review, (1986); 
+Garcia-Morales V.J., Llorens-Montes F.J., Verdu-Jover A.J., The effects of transformational leadership on organizational performance through knowledge and innovation, British Journal of Management, 19, 4, pp. 299-319, (2008); 
+Gomez-Mejia L.R., Cruz C., Berrone P., De Castro J., The bind that ties: Socioemotional wealth preservation in family firms, The Academy of Management Annals, 5, 1, pp. 653-707, (2011); 
+Gomez-Mejia L.R., Haynes K.T., Nunez-Nickel M., Jacobson K.J.L., Moyano-Fuentes J., Socioemotional wealth and business risks in family-controlled firms: Evidence from Spanish olive oil mills, Administrative Science Quarterly, 52, 1, pp. 106-137, (2007); 
+Hayek F.A., Individualism and economic order, (1980); 
+Hecker A., Knowledge beyond the individual? Making sense of a notion of collective knowledge in organization theory, Organization Studies, 33, 3, pp. 423-445, (2012); 
+Hobfoll S.E., Halbesleben J., Neveu J.P., Westman M., Conservation of resources in the organizational context: The reality of resources and their consequences, Annual Review of Organizational Psychology and Organizational Behavior, 5, 1, pp. 103-128, (2018); 
+Hoffmann A., Junge M., Malchow-Moller N., Running in the family: Parental role models in entrepreneurship, Small Business Economics, 44, 1, pp. 79-104, (2015); 
+Hofstede G., Hofstede G.J., Minkov M., Cultures and organizations: Software of the mind, 2, (2005); 
+Jensen M.C., Meckling W.H., Theory of the firm: Managerial behavior, agency costs and ownership structure, Journal of Financial Economics, 3, 4, pp. 305-360, (1976); 
+Kammeyer-Mueller J.D., Wanberg C.R., Unwrapping the organizational entry process: Disentangling multiple antecedents and their pathways to adjustment, Journal of Applied Psychology, 88, 5, pp. 779-794, (2003); 
+Kandade K., Samara G., Parada M.J., Dawson A., From family successors to successful business leaders: A qualitative study of how high-quality relationships develop in family businesses, Journal of Family Business Strategy, 12, 2, (2021); 
+Knight F.H., Risk, uncertainty and profit, 31, (1921); 
+Kotlar J., De Massis A., Goal setting in family firms: Goal diversity, social interactions, and collective commitment to family-centered goals, Entrepreneurship Theory and Practice, 37, 6, pp. 1263-1288, (2013); 
+Lambrecht J., Lievens J., Pruning the family tree: An unexplored path to family business continuity and family harmony, Family Business Review, 21, 4, pp. 295-313, (2008); 
+Li X., Han J., Li W., Is it succession of the family business or creating other field? The construction of the authority legitimacy of the second generation succession of the family business, Management World, 6, pp. 110-124, (2015); 
+Liao E.Y., Chun H., Supervisor monitoring and subordinate innovation, Journal of Organizational Behavior, 37, 2, pp. 168-192, (2016); 
+Loehde A.S.K., Campopiano G., Calabro A., Beyond agency and stewardship theory: Shareholder-manager relationships and governance structures in family firms, Management Decision, 59, 2, pp. 390-405, (2021); 
+Longenecker J.G., Schoen J.E., Management succession in the family business, Journal of Small Business Management, 16, 3, pp. 1-6, (1978); 
+Madison K., Holt D.T., Kellermanns F.W., Ranft A.L., ViewingFamily firm behavior and governance through the lens of agency and stewardship theories, Family Business Review, 29, 1, pp. 65-93, (2016); 
+March J.C., Olsen J.P., Elaborating the new institutionalism, The oxford handbook of political institutions, (2006); 
+Marques P., Bikfalvi A., Busquet F., A family imprinting approach to nurturing willing successors: Evidence from centennial family firms, Family Business Review, 35, 3, pp. 246-274, (2022); 
+McAllister D.J., Affect-and cognition-based trust as foundations for interpersonal cooperation in organizations, Academy of Management Journal, 38, 1, pp. 24-59, (1995); 
+Morrison E.W., Newcomers' relationships: The role of social network ties during socialization, Academy of Management Journal, 45, 6, pp. 1149-1160, (2002); 
+Mustakallio M., Autio E., Zahra S.A., Relational and contractual governance in family firms: Effects on strategic decision making, Family Business Review, 15, 3, pp. 205-222, (2002); 
+Nason R.S., Mazzelli A., Carney M., The ties that unbind: Socialization and business-owning family reference point shift, Academy of Management Review, 44, 4, pp. 845-869, (2019); 
+Nelson S.G., Winter R.R., An evolutionary theory of economic change, (1982); 
+Osnes G., Succession and authority: A case study of an african family business and a clan chief, International Journal of Cross Cultural Management, 11, 2, pp. 185-201, (2011); 
+Pearson A.W., Marler L.E., A leadership perspective of reciprocal stewardship in family firms, Entrepreneurship Theory and Practice, 34, 6, pp. 1117-1124, (2010); 
+Penrose E.T., The theory of the growth of the firm, (1995); 
+Polanyi M., Personal knowledge: Towards a post-critical philosophy, (2015); 
+Reihlen M., Ringberg T., Uncertainty, pluralism, and the knowledge-based theory of the firm: From J.-C. Spender's contribution to a socio-cognitive approach, European Management Journal, 31, 6, pp. 706-716, (2013); 
+Steier L., Next-generation entrepreneurs and succession: An exploratory study of modes and means of managing social capital, Family Business Review, 14, 3, pp. 259-276, (2001); 
+Steier L.P., Miller D., Pre-and post-succession governance philosophies in entrepreneurial family firms, Journal of Family Business Strategy, 1, 3, pp. 145-154, (2010); 
+Witt U., Imagination and leadership-The neglected dimension of an evolutionary theory of the firm, Journal of Economic Behavior & Organization, 35, 2, pp. 161-177, (1998); 
+Woodfield P., Husted K., Intergenerational knowledge sharing in family firms: Case-based evidence from the New Zealand wine industry, Journal of Family Business Strategy, 8, 1, pp. 57-69, (2017); 
+Wu J., Status, timing and path of the residual control rights succession of family business-A multi-case study based on haixin, TSL and fotile, China Industrial Economics, 337, 4, pp. 110-126, (2016); 
+Wu J., Hu Y., Research on the content system of relational governance and its running logic, Business Management Journal, 44, 9, pp. 85-106, (2022); 
+Wu J., Hu Y., The specific mechanism, driving logic and suitable environment of contractual governance and relational governance:A case study of inter-generational change of governance models in family enterprise, Chinese Journal Of Management, 20, 1, pp. 14-25, (2023); 
+Yates V.A., Vardaman J.M., Chrisman J.J., Social network research in the family business literature: A review and integration, Small Business Economics, 60, 4, pp. 1323-1345, (2023); 
+Yuan W., Wu Z., Commentary: A value perspective of family firms, Entrepreneurship Theory and Practice, 42, 2, pp. 283-289, (2018); 
+Zahra S.A., Harvesting family firms' organizational social capital: A relational perspective, Journal of Management Studies, 47, 2, pp. 345-366, (2010)
+CORRESPONDENCE ADDRESS: Y. Hu; Glorious Sun School of Business and Management, Donghua University, Shanghai, 200051, China; email: yhhu@mail.dhu.edu.cn
+PUBLISHER: Elsevier Inc.
+ISSN: 10590560
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Int. Rev. Econ. Financ.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Cato K., Duarte S., Tickner M., Higgins T., McCabe M., Curley M.A.Q.
+AUTHOR FULL NAMES: Cato, Kenrick (35071035400); Duarte, Sherri (59234957200); Tickner, Maria (58160366300); Higgins, Timothy (59235140300); McCabe, Margaret (20433990800); Curley, Martha A.Q. (58108945900)
+35071035400; 59234957200; 58160366300; 59235140300; 20433990800; 58108945900
+A Nursing Clinical Care Services Platform to Support Leadership Decision Making
+(2024) Studies in Health Technology and Informatics, 315, pp. 473 - 476, Cited 0 times.
+DOI: 10.3233/SHTI240193
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199604173&doi=10.3233%2fSHTI240193&partnerID=40&md5=db22c1a25ff55be6b5d44dd22a446d48
+
+AFFILIATIONS: University of Pennsylvania, Philadelphia, PA, United States; The Children's Hospital of Philadelphia, Philadelphia, PA, United States
+ABSTRACT: Like most organizations, The Children's Hospital of Philadelphia (CHOP) generates a lot of data of varying types, from clinical to staffing and operations. However, these datasets are separated, preventing effective analytics. To improve workforce management and care delivery, CHOP's Nursing department collaborated with the Data & Analytics team to create a dashboard-based platform for analyzing workforce metrics and patient outcomes, aiding nursing leaders in decision-making. This project involved multiple phases with contributions from Nursing, Data & Analytics, CHOP's Data Trust Office, and Human Resources. Key performance indicators were identified, and a variety of data sources were aggregated to provide a comprehensive view of the nursing enterprise. The resulting platform offers automated, current, and reliable analytics on various aspects, including nursing demographics, education, survey results, staffing actuals by job group, and patient and family experience data. The platform's usability was assessed using a modified Health Information Technology Usability Evaluation Scale survey, with a 29% response rate primarily from senior directors and managers. The findings showed high usability and satisfaction, indicating the dashboard is a valuable decision-support tool. Lessons learned include the need for analytics education for nurses and mid-managers, the inclusion of critical nursing-specific metrics (and development of the data pipelines making them possible), and the integration of multidisciplinary team metrics for comprehensive nursing analytics.  © 2024 The Authors.
+AUTHOR KEYWORDS: Analytics; Business Intelligence; Dashboard; Decision-Making; Nursing; Usability
+INDEX KEYWORDS: Decision Support Systems, Clinical; Hospitals, Pediatric; Humans; Leadership; Philadelphia; Benchmarking; Decision support systems; Nursing; Personnel selection; Usability engineering; Analytic; Business-intelligence; Clinical care; Dashboard; Data analytics; Decisions makings; Philadelphia; Service platforms; Support leadership; Usability; benchmarking; child; commercial phenomena; conference paper; decision making; decision support system; demographics; human; intelligence; key performance indicator; leadership; medical informatics; multidisciplinary team; nurse; Pennsylvania; treatment outcome; usability; workforce; clinical decision support system; pediatric hospital; Decision making
+REFERENCES: Maramba I., Chatterjee A., Newman C., Methods of usability testing in the development of eHealth applications: A scoping review, Int J Med Inform, 126, pp. 95-104, (2019); 
+Yen P.-Y., Wantland D., Bakken S., Development of a Customizable Health IT Usability Evaluation Scale, AMIA Annual Symposium Proceedings, 2010, pp. 917-921, (2010)
+CORRESPONDENCE ADDRESS: K. Cato; University of Pennsylvania, Philadelphia, United States; email: kato@upenn.edu
+EDITORS: Strudwick G., Hardiker N.R., Rees G., Cook R., Cook R., Lee Y.J.
+PUBLISHER: IOS Press BV
+SPONSORS: BCS, Chartered Institute for IT, Elsevier
+CONFERENCE NAME: 16th International Congress on Nursing Informatics, NI 2024
+CONFERENCE DATE: 28 July 2024 through 31 July 2024
+CONFERENCE LOCATION: Manchester
+CONFERENCE CODE: 201226
+ISSN: 09269630
+ISBN: 978-164368527-4
+PUBMED ID: 39049304
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Stud. Health Technol. Informatics
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Groefsema H., van Beest N.R.T.P.
+AUTHOR FULL NAMES: Groefsema, H. (36662229800); van Beest, N.R.T.P. (24479230600)
+36662229800; 24479230600
+Supporting business process variability through declarative process families
+(2024) Computers in Industry, 159-160, art. no. 104107, Cited 0 times.
+DOI: 10.1016/j.compind.2024.104107
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194142105&doi=10.1016%2fj.compind.2024.104107&partnerID=40&md5=c813861b4aada90ebf10d2c6d4f61ff7
+
+AFFILIATIONS: Distributed Systems Group, Bernoulli Institute, University of Groningen, Netherlands; Software Systems Group, Data61 — CSIRO, Brisbane, Australia
+ABSTRACT: Organizations use business process management systems to automate processes that they use to perform tasks or interact with customers. However, several variants of the same business process may exist due to, e.g., mergers, customer-tailored services, diverse market segments, or distinct legislation across borders. As a result, reliable support for process variability has been identified as a necessity. In this article, we introduce the concept of declarative process families to support process variability and present a procedure to formally verify whether a business process model is part of a specified process family. The procedure allows to identify potential parts in the process that violate the process family. By introducing the concept of process families, we allow organizations to deviate from their prescribed processes using normal process model notation and automatically verify if such a deviation is allowed. To demonstrate the applicability of the approach, a simple example process is used that describes several variants of a car rental process which is required to adhere to several process families. Moreover, to support the proposed procedure, we present a tool that allows business processes, specified as Petri nets, to be verified against their declarative process families using the NuSMV2 model checker. © 2024 The Author(s)
+AUTHOR KEYWORDS: Business processes; Declarative; Process families; Temporal logic; Variability; Verification
+INDEX KEYWORDS: Enterprise resource management; Model checking; Automate process; Business Process; Business process management systems; Business process modeling; Declarative; Market segment; Process family; Process Variability; Process-models; Variability; Petri nets
+REFERENCES: Aiello M., Bulanov P., Groefsema H., Requirements and tools for variability management, 2010 IEEE 34th Annual Computer Software and Applications Conference Workshops, pp. 245-250, (2010); 
+Calegari D., Delgado A., Pena L., Model-driven support for business process families with the Common Variability Language (CVL), CLEI Electron. J., 23, 1, pp. 1-24, (2020); 
+Clarke E.M., Grumberg O., Peled D.A., Model Checking, (1999); 
+De Giacomo G., Dumas M., Maggi F.M., Montali M., Declarative process modeling in BPMN, Advanced Information Systems Engineering: 27th International Conference, CAiSE 2015, Stockholm, Sweden, June 8-12, 2015, Proceedings 27, pp. 84-100, (2015); 
+Delgado A., Calegari D., Garcia F., Weber B., Model-driven management of BPMN-based business process families, Softw. Syst. Model., 21, 6, pp. 2517-2553, (2020); 
+Dijkman R.M., Dumas M., Ouyang C., Semantics and analysis of business process models in BPMN, Inf. Softw. Technol., 50, 12, pp. 1281-1294, (2008); 
+Dimovski A.S., Al-Sibahi A.S., Brabrand C., Wasowski A., Family-based model checking without a family-based model checker, International SPIN Workshop on Model Checking of Software, pp. 282-299, (2015); 
+Emerson E.A., Halpern J.Y., pp. 169-180, (1982); 
+Groefsema H., Bucur D., A survey of formal business process Verification From soundness to variability, Third International Symposium on Business Modeling and Software Design, 1, pp. 198-203, (2013); 
+Groefsema H., Bulanov P., Aiello M., Declarative enhancement framework for business processes, Service-Oriented Computing, pp. 495-504, (2011); 
+Groefsema H., pp. 108-115, (2015); 
+Groefsema H., van Beest N.R.T.P., Aiello M., A formal model for compliance verification of service compositions, IEEE Trans. Serv. Comput., 11, 3, pp. 466-479, (2018); 
+Groefsema H., van Beest N.R.T.P., Armas-Cervantes A., Efficient conditional compliance checking of business process models, Comput. Ind., 115, (2020); 
+Groner G., Boskovic M., Parreiras F.S., Gasevic D., Modeling and validation of business process families, Inf. Syst., 38, 5, pp. 709-726, (2013); 
+La Rosa M., van der Aalst W.M.P., Dumas M., Milani F.P., Business process variability modeling: A survey, ACM Comput. Surv., 50, 1, pp. 1-45, (2017); 
+La Rosa M., Reijers H.A., van der Aalst W.M.P., Dijkman R.M., Mendling J., Dumas M., Garcia-Banuelos L., APROMORE: An advanced process model repository, Expert Syst. Appl., 38, 6, pp. 7029-7040, (2011); 
+OMG M., Business process model and notation (BPMN) version 2.0, (2011); 
+OMG M., OMG unified modeling language (OMG UML) version 2.5, (2015); 
+Pesic M., Schonenberg H., van der Aalst W.M.P., Declare: Full support for loosely-structured processes, 11th IEEE International Enterprise Distributed Object Computing Conference (EDOC 2007), (2007); 
+Sun C.-A., Aiello M., Towards variable service compositions using VxBPEL, High Confidence Software Reuse in Large Systems, pp. 257-261, (2008); 
+van Beest N.R.T.P., Bulanov P., Wortmann J.C., Lazovik A., Resolving business process interference via dynamic reconfiguration, Service-Oriented Computing: 8th International Conference, ICSOC 2010, San Francisco, CA, USA, December 7-10, 2010. Proceedings 8, pp. 47-60, (2010); 
+van Beest N.R.T.P., Groefsema H., Garcia-Banuelos L., Aiello M., Variability in business processes: Automatically obtaining a generic specification, Inf. Syst., 80, pp. 36-55, (2019); 
+van Beest N.R.T.P., Kaldeli E., Bulanov P., Wortmann J.C., Lazovik A., Automated runtime repair of business processes, Inf. Syst., 39, pp. 45-79, (2014); 
+van der Aalst W.M.P., Pesic M., Schonenberg H., Declarative workflows: Balancing between flexibility and support, Comput. Sci. Res. Dev., 23, pp. 99-113, (2009); 
+van Dongen B.F., van der Aalst W.M.P., Verbeek H.M.W., Verification of EPCs: Using reduction rules and Petri nets, International Conference on Advanced Information Systems Engineering, pp. 372-386, (2005)
+CORRESPONDENCE ADDRESS: H. Groefsema; Distributed Systems Group, Bernoulli Institute, University of Groningen, Netherlands; email: h.groefsema@rug.nl
+PUBLISHER: Elsevier B.V.
+ISSN: 01663615
+CODEN: CINUD
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Comput Ind
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Ackah C., Torvikey G.D., Obeng Adomaa F., Asante K.T.
+AUTHOR FULL NAMES: Ackah, Charles (54382952700); Torvikey, Gertrude Dzifa (57193666288); Obeng Adomaa, Faustina (57408245400); Asante, Kofi Takyi (57203149831)
+54382952700; 57193666288; 57408245400; 57203149831
+“You cannot rely on bank loans to expand your business”: aversion to formal credit among female micro-entrepreneurs in Ghana
+(2024) International Journal of Social Economics, 51 (7), pp. 870 - 883, Cited 1 times.
+DOI: 10.1108/IJSE-02-2023-0090
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177454550&doi=10.1108%2fIJSE-02-2023-0090&partnerID=40&md5=6d7ed4a4c94905e18ff0606f34e3b928
+
+AFFILIATIONS: Institute of Statistical, Social and Economic Research, University of Ghana, Accra, Ghana; Wageningen University, Wageningen, Netherlands
+ABSTRACT: Purpose: The marginalisation of female entrepreneurs in accessing credit is well documented. Yet, how female entrepreneurs navigate through the marginalisation to gain funding is under-explored. Design/methodology/approach: The authors address this gap using qualitative data from 30 female entrepreneurs in three neighbourhoods with varying socio-economic characteristics in Ghana's capital, Accra. Findings: The authors find a marked aversion to bank loans among respondents. Consequently, they nurtured trust in their social circles in order to facilitate access to informal credit from internal (e.g. family and friends) and external (e.g. trade credit, associations and religious organisations) sources. This aversion to loans from formal financial institutions (FFIs) had a socio-cultural aspect, including cumbersome application procedures, a deep-rooted fear of the social consequences of defaulting and religious prohibition against interest payment for Islamic traders. Social implications: This paper shows that providing formal access to credit is not enough to support women's entrepreneurship if the socio-cultural factors inhibiting women's access to credit from FFIs are not addressed. Originality/value: The findings suggest that trust is an important factor that bridges the gap in female entrepreneurs' access to funding given their heavy reliance on informal sources of funding. Peer review: The peer review history for this article is available at: https://publons.com/publon/10.1108/IJSE-02-2023-0090 © 2023, Emerald Publishing Limited.
+AUTHOR KEYWORDS: Credit; Ghana; Micro-enterprises; Trust; Women's entrepreneurship
+INDEX KEYWORDS: Accra; Ghana; Greater Accra; banking; business development; credit provision; entrepreneur; lending behavior; marginalization; microeconomics; neighborhood; womens status
+FUNDING DETAILS: ORID
+FUNDING DETAILS: University of Ghana’s Office of Research, Innovation and Development
+FUNDING TEXT 1: The authors wish to acknowledge funding from the University of Ghana’s Office of Research, Innovation and Development (ORID): Working Group on Development Policy, Poverty Monitoring and Evaluation (DPPME), 2015-2016.
+REFERENCES: Abor J., Biekpe N., A comparison of male-owned and female-owned businesses in Ghana, International Journal of Entrepreneurship and Innovation, 7, 2, pp. 105-112, (2006); 
+Ackah C., Gorg H., Hanley A., Hornok C., Africa's businesswomen – underfunded or underperforming?, Small Business Economics, pp. 1-24, (2023); 
+Adesua-Lincoln A., Assessing Nigerian female entrepreneur's access to finance for business start-up and growth, African Journal of Business Management, 5, 13, pp. 5348-5355, (2011); 
+Adom K., Beyond the marginalization thesis: an examination of the motivations of informal entrepreneurs in sub-Saharan Africa: insights from Ghana, The International Journal of Entrepreneurship and Innovation, 15, 2, pp. 113-125, (2014); 
+Agyapong D., Agyapong G.K., Darfor K., Criteria for assessing small and medium enterprises' borrowers in Ghana, International Business Research, 4, 4, pp. 132-138, (2011); 
+Allen F., Qian M., Xie J., Understanding informal financing, Journal of Financial Intermediation, 39, 2019, pp. 19-33, (2019); 
+Asante K.T., Strategic coethnicity: social capital and entrepreneurial strategies of two Ghanaian migrant businesses, Journal of Enterprising Communities: People and Places in the Global Economy, 12, 4, pp. 418-436, (2018); 
+Asante K.T., Citizens or spectators? Civic engagement and informality of citizenship in Ghana, Contemporary Journal of African Studies, 7, 2, pp. 1-17, (2020); 
+Asante K.T., Social relations, Ghana Social Development Outlook 2022, (2023); 
+Aterido R., Beck T., Iacovone L., Access to finance in Sub-Saharan Africa: is there a gender gap?, World Development, 47, pp. 102-120, (2013); 
+Boateng A., African Female Entrepreneurship: Merging Profit and Social Motives for the Greater Good, (2018); 
+Braun V., Clarke V., Using thematic analysis in psychology, Qualitative Research in Psychology, 3, 2, pp. 77-101, (2006); 
+Bruton G.D., Nuhu N., Qian J.J., Informal finance in settings of poverty: establishing an agenda for future entrepreneurship research, Journal of Developmental Entrepreneurship, 26, 2, (2021); 
+Chamlee-Wright E., The Cultural Foundations of Economic Development: Urban Female Entrepreneurship in Ghana, (1997); 
+Creswell J.W., Hanson W.E., Clark Plano V.L., Morales A., Qualitative research designs: selection and implementation, The Counseling Psychologist, 35, 2, pp. 236-264, (2007); 
+Cypress B., Qualitative research methods: a phenomenological focus, Dimensions of Critical Care Nursing, 37, 6, pp. 302-309, (2018); 
+Debroux P., Female Entrepreneurship in East and South-East Asia: Opportunities and Challenges, (2010); 
+Dhaubhadel S., Modi D.K., Management practice of women in entrepreneurship activities of micro enterprise running in Parbat District, Nepal, Nepal Journal of Multidisciplinary Research, 5, 2, pp. 20-31, (2022); 
+D'Agostino L.M., Ilbeigi A., Torrisi S., The role of human capital in Italian equity crowdfunding campaigns, The International Journal of Entrepreneurship and Innovation, pp. 1-11, (2022); 
+Eddleston K.A., Ladge J.J., Mitteness C., Balachandra L., Do you see what I see? Signaling effects of gender and firm characteristics on financing entrepreneurial ventures, Entrepreneurship Theory and Practice, 40, 3, pp. 489-514, (2016); 
+Elam A.B., Baumer B.S., Schott T., Samsami M., Dwivedi A.K., Baldegger R.J., Guerrero M., Boutaleb F., Hughes K.D., GEM 2021/22 Women’s Entrepreneurship Report: From Crisis to Opportunity, (2022); 
+Elam A.B., Brush C., Greene P., Baumer B., Dean M., Heavlow R., Global Entrepreneurship Monitor Women’s Entrepreneurship Report, (2019); 
+Etikan I., Musa S.A., Alkassim R.S., Comparison of convenience sampling and purposive sampling, American Journal of Theoretical and Applied Statistics, 5, 1, pp. 1-4, (2016); 
+Galloway L., Brown W., Arenius P., Gender-based differences in entrepreneurial behaviour: a comparative examination of Scotland and Finland, The International Journal of Entrepreneurship and Innovation, 3, 2, pp. 109-119, (2002); 
+Ghosh P.K., Ghosh S.K., Chowdhury S., Factors hindering women entrepreneurs’ access to institutional finance: an empirical study, Journal of Small Business and Entrepreneurship, 30, 4, pp. 279-294, (2018); 
+Ghouse S.M., McElwee G., Durrah O., Entrepreneurial success of cottage-based women entrepreneurs in Oman, International Journal of Entrepreneurial Behavior and Research, 25, 3, pp. 480-498, (2019); 
+Gupta N., Mirchandani A., Investigating entrepreneurial success factors of women-owned SMEs in UAE, Management Decision, 56, 1, pp. 219-232, (2018); 
+Halcomb E.J., Davidson P.M., Is verbatim transcription of interview data always necessary?, Applied Nursing Research, 19, 1, pp. 38-42, (2006); 
+Hatten J., A call for essential certification and apprenticeship, Proceedings of SITE 2011--Society for Information Technology and Teacher Education International Conference, (2011); 
+Hennink M.M., Kaiser B.N., Marconi V.C., Code saturation versus meaning saturation: how many interviews are enough?, Qualitative Health Research, 27, 4, pp. 591-608, (2017); 
+Hillesland M., Investigating the gender wealth gap in Ghana, Oxford Development Studies, 47, 1, pp. 63-78, (2019); 
+Hovorka A.J., Dietrich D., Entrepreneurship as a gendered process, The International Journal of Entrepreneurship and Innovation, 12, 1, pp. 55-65, (2011); 
+Kuada J., Gender, social networks, and entrepreneurship in Ghana, Journal of African Business, 10, 1, pp. 85-103, (2009); 
+Kuada J., Changing role of finance in rural small enterprise growth in Ghana, Journal of Entrepreneurship in Emerging Economies, (2022); 
+Kuma F.K., Yusoff M.E., Jayamana J., Crowdfunding system models in the African context: the Susu and Yibima concepts in Ghana, International Journal of Academic Research in Economics and Management and Sciences, 10, 3, pp. 359-374, (2021); 
+Lewis P., The quest for invisibility: female entrepreneurs and the masculine norm of entrepreneurship, Gender, Work and Organization, 13, 5, pp. 453-469, (2006); 
+Lins E., Lutz E., Bridging the gender funding gap: do female entrepreneurs have equal access to venture capital?, International Journal of Entrepreneurship and Small Business, 27, 2-3, pp. 347-365, (2016); 
+Marlow S., Hicks S., Treanor L., Gendering entrepreneurial behavior, Entrepreneurial Behavior, Individual, Contextual and Microfoundational Perspectives, (2019); 
+Mazumder R., Dastidar S., Bhandari A.K., Access to credit and microentrepreneurship: a gender comparison, Women’s Entrepreneurship and Microfinance, pp. 191-210, (2017); 
+McNamara C., General Guidelines for Conducting Interviews, (2022); 
+Metu A.G., Nwogwugwu U.C., Challenging factors affecting access to finance by female micro entrepreneurs in Anambra state, Nigeria, Journal of African Business, pp. 1-13, (2022); 
+Miles H., Huberma A.M., Saldana J., Qualitative Data Analysis: A Methods Sourcebook, (2014); 
+Morsy H., El-Shal A., Woldemichael A., Women self-selection out of the credit market in Africa (Working Paper Series No. 317), (2019); 
+Mushfiqur R., Mordi C., Oruh E.S., Nwagbara U., Mordi T., Turner I.M., The impacts of work-life-balance (WLB) challenges on social sustainability: the experience of Nigerian female medical doctors, Employee Relations, 40, 5, pp. 868-888, (2018); 
+Neumeyer X., Santos S.C., Caetano A., Kalbfleisch P., Entrepreneurship ecosystems and women entrepreneurs: a social capital and network approach, Small Business Economics, 53, 2, pp. 475-489, (2019); 
+Ng K.S., Fu P.P., Factors driving foreign women entrepreneurship in China, Entrepreneurial Business and Economics Review, 6, 4, (2018); 
+Niethammer C., Saeed T., Mohamed S.S., Yasser Charafi Y., Women entrepreneurs and access to finance in Pakistan, Women’s Policy Journal, 4, Summer 2007, pp. 1-12, (2007); 
+Nukpezah J.A., Blankson C., Microfinance intervention in poverty reduction: a study of women farmer-entrepreneurs in rural Ghana, Journal of African Business, 18, 4, pp. 457-475, (2017); 
+Osei B., Baah-Nuakoh A., Tutu K., Sowa N., Impact of structural adjustment on small-scale enterprises in Ghana, Enterprise and Changing Policies: Structural Adjustment, Financial Policy and Assistance Programmes in Africa, pp. 53-70, (1993); 
+Robson P.J.A., Obeng B.A., The barriers to growth in Ghana, Small Business Economics, 30, 30, pp. 385-403, (2008); 
+Sarpong A., Adusei M., Multinomial logistic analysis of ‘susu’ contribution in Ghana, Journal of Economic and Social Development, 1, 1, pp. 96-105, (2014); 
+Senou M.M., Manda J., Access to finance and rural youth entrepreneurship in Benin: is there a gender gap?, African Development Review, 34, 1, pp. 29-41, (2022); 
+Sholokhov A., Burke J.V., Santomauro D.F., Zheng P., Aravkin A., A relaxation approach to feature selection for linear mixed effects models, Journal of Computational and Graphical Statistics, (2022); 
+Shoma C.D., Financing female entrepreneurs in cottage, micro, small, and medium enterprises: evidence from the financial sector in Bangladesh 2010–2018, Asia Pacific Policy Studies, 6, 4, pp. 397-416, (2019); 
+Simba A.O., Om Braune E., Dana L., Community financing in entrepreneurship: a focus on women entrepreneurs in the developing world, Journal of Business Research, 163, 2023, pp. 1-13, (2023); 
+Singh S., Archer G.R., Madan S., Gender and entrepreneurial activities: microentrepreneurs in rural India, Interdisciplinary Journal of Economics and Business Law, 7, 3, pp. 55-74, (2018); 
+Snellman K., Solal I., Does investor gender matter for the success of female entrepreneurs? Gender homophily and the stigma of incompetence in entrepreneurial finance, Organization Science, pp. 1-20, (2022); 
+Stoesz D., Gitau I., Rodriguez R., Thompson F., Susu: capitalizing development from the bottom up, The Journal of Sociology and Social Welfare, 43, 3, (2016); 
+Taber K.S., Lost and found in translation: guidelines for reporting research data in an ‘other’ language, Chemistry Education Research and Practice, 19, 3, pp. 646-652, (2018); 
+Taqi M., Shah S.Z.A., Ali M.S., Ali M., Yousuf M., Access to finance for African SMEs: do women entrepreneurs face discrimination, Journal of Contemporary Issues in Business and Government, 27, 6, pp. 1569-1588, (2021); 
+Tasker T.J., Cisneroz A., Open-ended questions in qualitative research: keeping an open mind as researchers, Curriculum and Teaching Dialogue, 21, 1, pp. 119-122, (2019); 
+Wang X., Cai L., Zhu X., Deng S., Female entrepreneurs’ gender roles, social capital and willingness to choose external financing, Asian Business and Management, 21, pp. 432-457, (2022); 
+Weinberg J.A., Firm size, finance, and investment, FRB Richmond Economic Quarterly, 80, 1, pp. 19-40, (1994); 
+Witbooi M., Wilfred Ukpere W., Indigenous female entrepreneurship: analytical study on access to finance for women entrepreneurs in South Africa, African Journal of Business Management, 5, 14, pp. 5646-5657, (2011); 
+Yasin R.F.F., Mahmud M.W., Diniyya A.A., Significance of financial literacy among women entrepreneur on halal business, Journal of Halal Industry and Services, 3, pp. 1-9, (2020)
+CORRESPONDENCE ADDRESS: K.T. Asante; Institute of Statistical, Social and Economic Research, University of Ghana, Accra, Ghana; email: ktasante@ug.edu.gh
+PUBLISHER: Emerald Publishing
+ISSN: 03068293
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Int. J. Soc. Econ.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sawang S., Kivits R.A.
+AUTHOR FULL NAMES: Sawang, Sukanlaya (16403499100); Kivits, Robbert Anton (35995529500)
+16403499100; 35995529500
+Revolutionizing family businesses with artificial intelligence: a perspective article
+(2024) Journal of Family Business Management, 14 (4), pp. 802 - 807, Cited 3 times.
+DOI: 10.1108/JFBM-09-2023-0158
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175650191&doi=10.1108%2fJFBM-09-2023-0158&partnerID=40&md5=fa8e6a036d0af12aaecab9268ab80dd0
+
+AFFILIATIONS: The Business School, Edinburgh Napier University, Edinburgh, United Kingdom; QUT Business School, Brisbane, Australia; Glasgow Caledonian University, Glasgow, United Kingdom
+ABSTRACT: Purpose: This perspective article addresses the essential need to comprehend what artificial intelligence (AI) entails and how it can revolutionize the family business sector. Design/methodology/approach: This article presents a literature review and the authors' perspectives to unravel the potential benefits of AI in family businesses. Findings: It is crucial to understand what AI is and its various types before the authors can discern which AI tools can be beneficial or tailored to family businesses. A promising area for future research is the use of Theory of Mind AI, which can help minimize conflicts of interest among family business members and assist in clear decision-making and succession planning. However, integrating AI brings about ethical implications, such as data privacy concerns, the need for transparency in AI decision-making and the necessity to ensure fair AI practices. These are all critical issues that the future research will need to tackle. Originality/value: This article emphasizes the potential of AI to be customized and incorporated to tackle the distinct dynamics, obstacles and opportunities prevalent in family-owned businesses. It also proposes future research areas that could enhance the application of AI in such enterprises. © 2023, Emerald Publishing Limited.
+AUTHOR KEYWORDS: Artificial intelligence; Digital transformation; Emotional AI; Family business; Innovation adoption
+REFERENCES: Ano B., Bent R., Human determinants influencing the digital transformation strategy of multigenerational family businesses: a multiple-case study of five French growth-oriented family firms, Journal of Family Business Management, 12, 4, pp. 876-891, (2022); 
+Chaudhuri R., Chatterjee S., Kraus S., Vrontis D., Assessing the AI-CRM technology capability for sustaining family businesses in times of crisis: the moderating role of strategic intent, Journal of Family Business Management, 13, 1, pp. 46-67, (2023); 
+Chen J.-S., Le T.-T.-Y., Florence D., Usability and responsiveness of artificial intelligence chatbot on online customer experience in e-retailing, International Journal of Retail and Distribution Management, 49, 11, pp. 1512-1531, (2021); 
+Duan Y., Edwards J.S., Dwivedi Y.K., Artificial intelligence for decision making in the era of Big Data–evolution, challenges and research agenda, International Journal of Information Management, 48, pp. 63-71, (2019); 
+Feltham T.S., Feltham G., Barnett J.J., The dependence of family businesses on a single decision-maker, Journal of Small Business Management, 43, 1, pp. 1-15, (2005); 
+Haenlein M., Kaplan A., A brief history of artificial intelligence: on the past, present, and future of artificial intelligence, California Management Review, 61, 4, pp. 5-14, (2019); 
+Hintze A., Understanding the four types of AI, from reactive robots to self-aware beings, The Conversation, (2015); 
+IBM Global AI Adoption Index 2022, (2022); 
+Kinkel S., Baumgartner M., Cherubini E., Prerequisites for the adoption of AI technologies in manufacturing–Evidence from a worldwide sample of manufacturing companies, Technovation, 110, pp. 1-17, (2022); 
+Lannon F., Lyons R., O'Connor C., Generation AI and family business: a perspective article, Journal of Family Business Management, (2023); 
+Monteith S., Glenn T., Geddes J., Whybrow P.C., Bauer M., Commercial use of emotion artificial intelligence (AI): implications for psychiatry, Current Psychiatry Reports, 24, 3, pp. 203-211, (2022); 
+Newbert S., Craig J.B., Moving beyond socioemotional wealth: toward a normative theory of decision making in family business, Family Business Review, 30, 4, pp. 339-346, (2017); 
+Obermayer N., Kovari E., Leinonen J., Bak G., Valeri M., How social media practices shape family business performance: the wine industry case study, European Management Journal, 40, 3, pp. 360-371, (2022); 
+O'Shaughnessy M.R., Schiff D.S., Varshney L.R., Rozell C.J., Davenport M.A., What governs attitudes toward artificial intelligence adoption and governance?, Science and Public Policy, 50, 2, pp. 161-176, (2023); 
+Ransbotham S., Kiron D., Gerbert P., Reeves M., Reshaping business with artificial intelligence: closing the gap between ambition and action, MIT Sloan Management Review, 59, 1, pp. 1-23, (2017); 
+Santos E., Tavares V., Tavares F.O., Ratten V., How is risk different in family and non-family businesses? A comparative statistical analysis during the COVID-19 pandemic, Journal of Family Business Management, 12, 4, pp. 1113-1130, (2022); 
+Sawang S., Unsworth K., Why adopt now? Multiple case studies and survey studies comparing small, medium and large firms, Technovation, 31, 10-11, pp. 554-559, (2011); 
+Shepherd D.A., Zacharakis A., Structuring family business succession: an analysis of the future leader's decision making, Entrepreneurship Theory and Practice, 24, 4, pp. 25-39, (2000); 
+Toorajipour R., Sohrabpour V., Nazarpour A., Oghazi P., Fischl M., Artificial intelligence in supply chain management: a systematic literature review, Journal of Business Research, 122, pp. 502-517, (2021); 
+Upadhyay N., Upadhyay S., Al-Debei M.M., Baabdullah A.M., Dwivedi Y.K., The influence of digital entrepreneurship and entrepreneurial orientation on intention of family businesses to adopt artificial intelligence: examining the mediating role of business innovativeness, International Journal of Entrepreneurial Behavior and Research, 29, 1, pp. 80-115, (2023)
+CORRESPONDENCE ADDRESS: S. Sawang; The Business School, Edinburgh Napier University, Edinburgh, United Kingdom; email: s.sawang@napier.ac.uk
+PUBLISHER: Emerald Publishing
+ISSN: 20436238
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: J. Fam. Bus. Manag.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Issah W.B., Ferdous L.T., Bhuiyan F., Sharif T.
+AUTHOR FULL NAMES: Issah, Wunnam Basit (57222549987); Ferdous, Lutfa Tilat (57367628200); Bhuiyan, Faruk (57216321744); Sharif, Taimur (57215657170)
+57222549987; 57367628200; 57216321744; 57215657170
+Digitalisation and environmental management activities: The effects of family ownership`
+(2024) Business Strategy and the Environment, 33 (5), pp. 4351 - 4374, Cited 2 times.
+DOI: 10.1002/bse.3706
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184448615&doi=10.1002%2fbse.3706&partnerID=40&md5=399a48c5b07082ebfdc6daefd1a8ad43
+
+AFFILIATIONS: University of Leicester School of Business, University of Leicester, Leicester, United Kingdom; University of Luxembourg, Luxembourg, Luxembourg; Chair for Family Entrepreneurship and Society, Audencia Business School, Nantes, France; Department of Accounting & Finance, University of Sussex Business School, University of Sussex, Brighton, United Kingdom; School of Management and Economics, University of Kurdistan Hewlêr, Erbil, Iraq
+ABSTRACT: While digitalisation has significant implications for environmental management activities, this nexus has received minimal attention in research. Given this backdrop, this study uses a unique survey dataset of 386 micro and small enterprises (MSEs) and conducts an OLS regression analysis to examine the impact of digitalisation on environmental management activities. The study also investigates how family ownership moderates this relationship. The study finds that digitalisation supports environmental management activities as an important strategic mechanism, and that family ownership has a negative moderating effect on the relationship between digitalisation and environmental management activities. This study contributes to ‘institutional theory’ by highlighting its applicability to the new context of MSEs in emerging markets. Further, the study provides managerial insights into how to ensure environmental management practices in the digital age. © 2024 The Authors. Business Strategy and The Environment published by ERP Environment and John Wiley & Sons Ltd.
+AUTHOR KEYWORDS: digitalisation; environmental management activities; family ownership; MSEs
+INDEX KEYWORDS: business development; digital image; environmental management; family structure; ownership; regression analysis; small and medium-sized enterprise
+REFERENCES: Abdulai A.G., Bawole J.N., Kojo Sakyi E., Rethinking persistent poverty in Northern Ghana: The primacy of policy and politics over geography, Politics & Policy, 46, 2, pp. 233-262, (2018); 
+Abeysekera A.P., Fernando C.S., Corporate social responsibility versus corporate shareholder responsibility: A family firm perspective, Journal of Corporate Finance, 61, (2020); 
+Acciarini C., Borelli F., Capo F., Cappa F., Sarrocco C., Can digitalization favour the emergence of innovative and sustainable business models? A qualitative exploration in the automotive sector, Journal of Strategy and Management, 15, 3, pp. 335-352, (2021); 
+Acquaah M., Agyapong A., The relationship between competitive strategy and firm performance in micro and small businesses in Ghana: The moderating role of managerial and marketing capabilities, Africa Journal of Management, 1, 2, pp. 172-193, (2015); 
+Adomako S., Ahsan M., Entrepreneurial passion and SMEs' performance: Moderating effects of financial resource availability and resource flexibility, Journal of Business Research, 144, pp. 122-135, (2022); 
+Aguinis H., Glavas A., What we know and don't know about corporate social responsibility: A review and research agenda, Journal of Management, 38, 4, pp. 932-968, (2012); 
+Amaya A., Lau C., Owusu-Amoah Y., Light J., Evaluation of gaining cooperation methods for IVR surveys in low-and middle-income countries, Survey Methods: Insights From the Field, pp. 1-8, (2018); 
+Amoako G.K., A conceptual framework: Corporate environmental management activities and sustainable competitive advantage, Management of Environmental Quality: An International Journal, 31, 2, pp. 331-347, (2020); 
+Anwar M., Scheffler M.A., Clauss T., Digital capabilities, their role in business model innovativeness, and the internationalization of SMEs, IEEE Transactions on Engineering Management, pp. 1-13, (2022); 
+Autio E., Kenney M., Mustar P., Siegel D., Wright M., Entrepreneurial innovation: The importance of context, Research Policy, 43, 7, pp. 1097-1108, (2014); 
+Ayalu G., Abbay A.G., Azadi H., The role of micro- and small-scale enterprises in enhancing sustainable community livelihood: Tigray, Ethiopia, Environment, Development and Sustainability, 25, 8, pp. 7561-7584, (2023); 
+Bai W., Johanson M., Oliveira L., Ratajczak-Mrozek M., The role of business and social networks in the effectual internationalization: Insights from emerging market SMEs, Journal of Business Research, 129, pp. 96-109, (2021); 
+Balogun A.-L., Marks D., Sharma R., Shekhar H., Balmes C., Maheng D., Arshad A., Salehi P., Assessing the potentials of digitalization as a tool for climate change adaptation and sustainable development in urban centres, Sustainable Cities and Society, 53, (2020); 
+Bammens Y., Hunermund P., Nonfinancial considerations in eco-innovation decisions: The role of family ownership and reputation concerns, Journal of Product Innovation Management, 37, 5, pp. 431-453, (2020); 
+Bansal P., Sustainable development in an age of disruption, Academy of Management Discoveries, 5, 1, pp. 8-12, (2019); 
+Bansal P., Clelland I., Talking trash: Legitimacy, impression management, and unsystematic risk in the context of the natural environment, Academy of Management Journal, 47, 1, pp. 93-103, (2004); 
+Bansal P., Song H.-C., Similar but not the same: Differentiating corporate sustainability from corporate responsibility, Academy of Management Annals, 11, 1, pp. 105-149, (2017); 
+Bascle G., Controlling for endogeneity with instrumental variables in strategic management research, Strategic Organization, 6, 3, pp. 285-327, (2008); 
+Basco R., Family business and regional development — A theoretical model of regional familiness, Journal of Family Business Strategy, 6, 4, pp. 259-271, (2015); 
+Bendig D., Schulz C., Theis L., Raff S., Digital orientation and environmental performance in times of technological change, Technological Forecasting and Social Change, 188, (2023); 
+Benner M.J., Tushman M.L., Reflections on the 2013 decade award —“exploitation, exploration, and process management: The productivity dilemma revisited” ten years later, Academy of Management Review, 40, 4, pp. 497-514, (2015); 
+Berrone P., Cruz C., Gomez-Mejia L.R., Larraza-Kintana M., Socioemotional wealth and corporate responses to institutional pressures: Do family-controlled firms pollute less?, Administrative Science Quarterly, 55, 1, pp. 82-113, (2010); 
+Berrone P., Fosfuri A., Gelabert L., Gomez-Mejia L.R., Necessity as the mother of ‘green’ inventions: Institutional pressures and environmental innovations, Strategic Management Journal, 34, 8, pp. 891-909, (2013); 
+Betts T.K., Wiengarten F., Tadisina S.K., Exploring the impact of stakeholder pressure on environmental management strategies at the plant level: What does industry have to do with it?, Journal of Cleaner Production, 92, pp. 282-294, (2015); 
+Bhuiyan F., Rana T., Baird K., Munir R., Strategic outcome of competitive advantage from corporate sustainability practices: Institutional theory perspective from an emerging economy, Business Strategy and the Environment, 32, pp. 4217-4243, (2023); 
+Bley K., Leyh C., Schaffer T., Digitization of German enterprises in the production sector—Do they know how “digitized” they are?, AMCIS 2016 proceedings, (2016); 
+Block J., Family management, family ownership, and downsizing: Evidence from S&P 500 firms, Family Business Review, 23, 2, pp. 109-130, (2010); 
+Borland H., Ambrosini V., Lindgreen A., Vanhamme J., Building theory at the intersection of ecological sustainability and strategic management, Journal of Business Ethics, 135, 2, pp. 293-307, (2016); 
+Boso N., Adeleye I., Donbesuur F., Gyensare M., Do entrepreneurs always benefit from business failure experience?, Journal of Business Research, 98, pp. 370-379, (2019); 
+Botero I.C., Cruz C., De Massis A., Nordqvist M., Family business research in the European context, European Journal of International Management, 9, 2, pp. 139-159, (2015); 
+Brenner B., Hartl B., The perceived relationship between digitalization and ecological, economic, and social sustainability, Journal of Cleaner Production, 315, (2021); 
+Chadwick I.C., Dawson A., Women leaders and firm performance in family businesses: An examination of financial and nonfinancial outcomes, Journal of Family Business Strategy, 9, 4, pp. 238-249, (2018); 
+Chen D.Q., Preston D.S., Swink M., How the use of big data analytics affects value creation in supply chain management, Journal of Management Information Systems, 32, 4, pp. 4-39, (2015); 
+Chen X., Despeisse M., Johansson B., Environmental sustainability of digitalization in manufacturing: A review, Sustainability, 12, 24, (2020); 
+Clark R., Reed J., Sunderland T., Bridging funding gaps for climate and sustainable development: Pitfalls, progress and potential of private finance, Land Use Policy, 71, pp. 335-346, (2018); 
+Clauss T., Spieth P., Klusmann C., Issah W.B., Kesting T., How industry projects can stimulate academic engagement: An experimental study among U.S. engineering professors, Industry and Innovation, 29, 1, pp. 74-101, (2022); 
+Comino-Jurado M., Sanchez-Andujar S., Parrado-Martinez P., Do dissimilarities in the family involvement in family firms lead to different levels of indebtedness? Evidence from Spain, Management Decision, 59, 12, pp. 2891-2906, (2021); 
+Cooper V., Molla A., Information systems absorptive capacity for environmentally driven IS-enabled transformation, Information Systems Journal, 27, 4, pp. 379-425, (2017); 
+Cruz C., Justo R., Larraza-Kintana M., Garces-Galdeano L., When do women make a better table? Examining the influence of women directors on family firm's corporate social performance, Entrepreneurship Theory and Practice, 43, 2, pp. 282-301, (2019); 
+Cruz C., Larraza-Kintana M., Garces-Galdeano L., Berrone P., Are family firms really more socially responsible?, Entrepreneurship Theory and Practice, 38, 6, pp. 1295-1316, (2014); 
+Cui T., Tong Y., Teo H.-H., Li J., Managing knowledge distance: IT-enabled inter-firm knowledge capabilities in collaborative innovation, Journal of Management Information Systems, 37, 1, pp. 217-250, (2020); 
+DasGupta R., Roy A., Firm environmental, social, governance and financial performance relationship contradictions: Insights from institutional environment mediation, Technological Forecasting and Social Change, 189, (2023); 
+De Massis A., Ding S., Kotlar J., Wu Z., Family involvement and R&D expenses in the context of weak property rights protection: An examination of non-state-owned listed companies in China, The European Journal of Finance, 24, 16, pp. 1506-1527, (2018); 
+Denicolai S., Zucchella A., Magnani G., Internationalization, digitalization, and sustainability: Are SMEs ready? A survey on synergies and substituting effects among growth paths, Technological Forecasting and Social Change, 166, (2021); 
+DiMaggio P.J., Powell W.W., The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields, American Sociological Review, 48, 2, pp. 147-160, (1983); 
+Dobler M., Lajili K., Zeghal D., Environmental performance, environmental risk and risk management, Business Strategy and the Environment, 23, 1, pp. 1-17, (2014); 
+Dubey R., Gunasekaran A., Childe S.J., Blome C., Papadopoulos T., Big data and predictive analytics and manufacturing performance: Integrating institutional theory, resource-based view and big data culture, British Journal of Management, 30, 2, pp. 341-361, (2019); 
+Dyer W.G., Whetten D.A., Family firms and social responsibility: Preliminary evidence from the S&P 500, Entrepreneurship: Theory and Practice, 30, 6, pp. 785-802, (2006); 
+Dzhengiz T., Niesten E., Competences for environmental sustainability: A systematic review on the impact of absorptive capacity and capabilities, Journal of Business Ethics, 162, 4, pp. 881-906, (2020); 
+Eccles R.G., Ioannou I., Serafeim G., The impact of corporate sustainability on organizational processes and performance, Management Science, 60, 11, pp. 2835-2857, (2014); 
+Egri C.P., Herman S., Leadership in the North American environmental sector: Values, leadership styles, and contexts of environmental leaders and their organizations, Academy of Management Journal, 43, 4, pp. 571-604, (2000); 
+Eller R., Alford P., Kallmunzer A., Peters M., Antecedents, consequences, and challenges of small and medium-sized enterprise digitalization, Journal of Business Research, 112, pp. 119-127, (2020); 
+Ernst R.A., Gerken M., Hack A., Hulsbeck M., Family firms as agents of sustainable development: A normative perspective, Technological Forecasting and Social Change, 174, (2022); 
+Fauzi A.A., Sheng M.L., The digitalization of micro, small, and medium-sized enterprises (MSMEs): An institutional theory perspective, Journal of Small Business Management, 60, 6, pp. 1288-1313, (2022); 
+Fores B., Puig-Denia A., Fernandez-Yanez J.M., Boronat-Navarro M., Dynamic capabilities and environmental performance: All in the family, Management Decision, 61, 13, pp. 248-271, (2023); 
+Fuller C.M., Simmering M.J., Atinc G., Atinc Y., Babin B.J., Common methods variance detection in business research, Journal of Business Research, 69, 8, pp. 3192-3198, (2016); 
+George G., Merrill R.K., Schillebeeckx S.J., Digital sustainability and entrepreneurship: How digital innovations are helping tackle climate change and sustainable development, Entrepreneurship Theory and Practice, 45, 5, pp. 999-1027, (2021); 
+George G., Schillebeeckx S.J., Digital transformation, sustainability, and purpose in the multinational enterprise, Journal of World Business, 57, 3, (2022); 
+Gold A.H., Malhotra A., Segars A.H., Knowledge management: An organizational capabilities perspective, Journal of Management Information Systems, 18, 1, pp. 185-214, (2001); 
+Gomez-Mejia L.R., Campbell J.T., Martin G., Hoskisson R.E., Makri M., Sirmon D.G., Socioemotional wealth as a mixed gamble: Revisiting family firm R&D investments with the behavioral agency model, Entrepreneurship Theory and Practice, 38, 6, pp. 1351-1374, (2014); 
+Gomez-Mejia L.R., Haynes K.T., Nunez-Nickel M., Jacobson K.J., Moyano-Fuentes J., Socioemotional wealth and business risks in family-controlled firms: Evidence from Spanish olive oil mills, Administrative Science Quarterly, 52, 1, pp. 106-137, (2007); 
+Gonzalez-Ramos M.I., Guadamillas F., Donate M.J., The relationship between knowledge management strategies and corporate social responsibility: Effects on innovation capabilities, Technological Forecasting and Social Change, 188, (2023); 
+Gouvea R., Kapelianis D., Kassicieh S., Assessing the nexus of sustainability and information & communications technology, Technological Forecasting and Social Change, 130, pp. 39-44, (2018); 
+Greve H.R., Teh D., Goal selection internally and externally: A behavioral theory of institutionalization, International Journal of Management Reviews, 20, pp. S19-S38, (2018); 
+Haq I.U., Huo C., Digital strategy and environmental performance: The mediating role of digitalization in SMEs, DESD, 1, 9, (2023); 
+He Z.-L., Wong P.-K., Exploration vs. exploitation: An empirical test of the ambidexterity hypothesis, Organization Science, 15, 4, pp. 481-494, (2004); 
+Heckman J.J., Sample selection bias as a specification error, Econometrica: Journal of the Econometric Society, 47, pp. 153-161, (1979); 
+Heider A.K., Clauss T., Hulsbeck M., Gerken M., Rusen T.A., Blood is thicker than water: The role of family willingness and family ability in achieving holistic digitalisation in family businesses, International Journal of Innovation Management, 26, 3, (2022); 
+Heras-Saizarbitoria I., Boiral O., Diaz de Junguitu A., Environmental management certification and environmental performance: Greening or greenwashing?, Business Strategy and the Environment, 29, 6, pp. 2829-2841, (2020); 
+Hock-Doepgen M., Clauss T., Kraus S., Cheng C.-F., Knowledge management capabilities and organizational risk-taking for business model innovation in SMEs, Journal of Business Research, 130, pp. 683-697, (2021); 
+Hofer C., Cantor D.E., Dai J., The competitive determinants of a firm's environmental management activities: Evidence from US manufacturing industries, Journal of Operations Management, 30, 1-2, pp. 69-84, (2012); 
+Huang L., Zhen L., Wang J., Zhang X., Blockchain implementation for circular supply chain management: Evaluating critical success factors, Industrial Marketing Management, 102, pp. 451-464, (2022); 
+Hung B.Q., Nham N.T.H., The importance of digitalization in powering environmental innovation performance of European countries, Journal of Innovation & Knowledge, 8, 1, (2023); 
+Hussain M., Hoque Z., Understanding non-financial performance measurement practices in Japanese banks: A new institutional sociology perspective, Accounting, Auditing & Accountability Journal, 15, 2, pp. 162-183, (2002); 
+Hussinger K., Issah A.-B., Firm acquisitions by family firms: A mixed gamble approach, Family Business Review, 32, 4, pp. 354-377, (2019); 
+Hussinger K., Issah W., Trade secret protection and R&D investment of family firms, Family Business Review, 35, 4, pp. 361-382, (2022); 
+Issah W.B., Anwar M., Clauss T., Kraus S., Managerial capabilities and strategic renewal in family firms in crisis situations: The moderating role of the founding generation, Journal of Business Research, 156, (2023); 
+Ghana — Country commercial guide, (2022); 
+Janz B.D., Prasarnphanich P., Understanding the antecedents of effective knowledge management: The importance of a knowledge-centered culture, Decision Sciences, 34, 2, pp. 351-384, (2003); 
+Joshi K.D., Chi L., Datta A., Han S., Changing the competitive landscape: Continuous innovation through IT-enabled knowledge capabilities, Information Systems Research, 21, 3, pp. 472-495, (2010); 
+Kane G.C., Palmer D., Phillips A.N., Kiron D., Buckley N., Strategy, not technology, drives digital transformation, MIT Sloan Management Review and Deloitte University Press, 14, 1-25, (2015); 
+Klassen R.D., McLaughlin C.P., The impact of environmental management on firm performance, Management Science, 42, 8, pp. 1199-1214, (1996); 
+Le Breton-Miller I., Miller D., Family firms and practices of sustainability: A contingency view, Journal of Family Business Strategy, 7, 1, pp. 26-33, (2016); 
+Legner C., Eymann T., Hess T., Matt C., Bohmann T., Drews P., Madche A., Urbach N., Ahlemann F., Digitalization: Opportunity and challenge for the business and information systems engineering community, Business & Information Systems Engineering, 59, pp. 301-308, (2017); 
+Li L., Su F., Zhang W., Mao J.Y., Digital transformation by SME entrepreneurs: A capability perspective, Information Systems Journal, 28, 6, pp. 1129-1157, (2018); 
+Li L., Zhou H., Yang S., Teo T.S.H., Leveraging digitalization for sustainability: An affordance perspective, Sustainable Production and Consumption, 35, pp. 624-632, (2023); 
+Li Y., Dai J., Cui L., The impact of digital technologies on economic and environmental performance in the context of industry 4.0: A moderated mediation model, International Journal of Production Economics, 229, (2020); 
+Lo S.F., Sheu H.J., Is corporate sustainability a value-increasing strategy for business?, Corporate Governance: An International Review, 15, 2, pp. 345-358, (2007); 
+Lu J., Herremans I.M., Board gender diversity and environmental performance: An industries perspective, Business Strategy and the Environment, 28, 7, pp. 1449-1464, (2019); 
+Lu J., Mahmoudian F., Yu D., Nazari J.A., Herremans I.M., Board interlocks, absorptive capacity, and environmental performance, Business Strategy and the Environment, 30, 8, pp. 3425-3443, (2021); 
+Lu W., Chen X., Ho D.C.W., Wang H., Analysis of the construction waste management performance in Hong Kong: The public and private sectors compared using big data, Journal of Cleaner Production, 112, pp. 521-531, (2016); 
+Luo S., Yimamu N., Li Y., Wu H., Irfan M., Hao Y., Digitalization and sustainable development: How could digital economy development improve green innovation in China?, Business Strategy and the Environment, 32, pp. 1847-1871, (2022); 
+MacKenzie S.B., Podsakoff P.M., Common method bias in marketing: Causes, mechanisms, and procedural remedies, Journal of Retailing, 88, 4, pp. 542-555, (2012); 
+Mathias B.D., Mckenny A.F., Crook T.R., Managing the tensions between exploration and exploitation: The role of time, Strategic Entrepreneurship Journal, 12, 3, pp. 316-334, (2018); 
+Matthess M., Kunkel S., Structural change and digitalization in developing countries: Conceptually linking the two transformations, Technology in Society, 63, (2020); 
+Matzler K., Veider V., Hautz J., Stadler C., The impact of family ownership, management, and governance on innovation, Journal of Product Innovation Management, 32, 3, pp. 319-333, (2015); 
+Melissen F., Cavagnaro E., Damen M., Duweke A., Is the hotel industry prepared to face the challenge of sustainable development?, Journal of Vacation Marketing, 22, 3, pp. 227-238, (2016); 
+Memon A., Yong An Z., Memon M.Q., Does financial availability sustain financial, innovative, and environmental performance? Relation via opportunity recognition, Corporate Social Responsibility and Environmental Management, 27, 2, pp. 562-575, (2019); 
+Meyer J.W., Rowan B., Institutionalized organizations: Formal structure as myth and ceremony, American Journal of Sociology, 83, 2, pp. 340-363, (1977); 
+Miller D., Le Breton-Miller I., Deconstructing socioemotional wealth, Entrepreneurship Theory and Practice, 38, 4, pp. 713-720, (2014); 
+Miroshnychenko I., De Massis A., Barontini R., Testa F., Family firms and environmental performance: A meta-analytic review, Family Business Review, 35, 1, pp. 68-90, (2022); 
+Molly V., Laveren E., Deloof M., Family business succession and its impact on financial structure and performance, Family Business Review, 23, 2, pp. 131-147, (2010); 
+Netemeyer R.G., Bearden W.O., Sharma S., Scaling procedures: Issues and applications, (2003); 
+Nishitani K., Kaneko S., Fujii H., Komatsu S., Are firms' voluntary environmental management activities beneficial for the environment and business? An empirical study focusing on Japanese manufacturing firms, Journal of Environmental Management, 105, pp. 121-130, (2012); 
+Nishitani K., Nguyen T.B.H., Trinh T.Q., Wu Q., Kokubu K., Are corporate environmental activities to meet sustainable development goals (SDGs) simply greenwashing? An empirical study of environmental management control systems in Vietnamese companies from the stakeholder management perspective, Journal of Environmental Management, 296, (2021); 
+Nunnally J.C., Bernstein I., Psychometric theory, (1994); 
+Key issues for digital transformation in the G20: Report prepared for a joint G20 German presidency, (2017); 
+Oppong M., Owiredu A., Churchill R.Q., Micro and small scale enterprises development in Ghana, European Journal of Accounting Auditing and Finance Research, 2, 6, pp. 84-97, (2014); 
+Osei B., Baah-Nuakoh A., Tutu K., Sowa N., Impact of structural adjustment on small-scale enterprises in Ghana, Structural adjustment, financial policy and assistance programmes in Africa, (1993); 
+Ozer M., Vogel D., Contextualized relationship between knowledge sharing and performance in software development, Journal of Management Information Systems, 32, 2, pp. 134-161, (2015); 
+Pangarso A., Sisilia K., Setyorini R., Peranginangin Y., Awirya A.A., The long path to achieving green economy performance for micro small medium enterprise, Journal of Innovation and Entrepreneurship, 11, 1, (2022); 
+Poltronieri C.F., Ganga G.M.D., Gerolamo M.C., Maturity in management system integration and its relationship with sustainable performance, Journal of Cleaner Production, 207, pp. 236-247, (2019); 
+Queiroz G.A., Alves Junior P.N., Costa Melo I., Digitalization as an enabler to SMEs implementing lean-green? A systematic review through the topic modelling approach, Sustainability, 14, 21, (2022); 
+Ramaswamy V., Ozcan K., Brand value co-creation in a digitalized world: An integrative framework and research implications, International Journal of Research in Marketing, 33, 1, pp. 93-106, (2016); 
+Rees W., Rodionova T., The influence of family ownership on corporate social responsibility: An international analysis of publicly listed companies, Corporate Governance: An International Review, 23, 3, pp. 184-202, (2015); 
+Risi D., Vigneau L., Bohn S., Wickert C., Institutional theory-based research on corporate social responsibility: Bringing values back in, International Journal of Management Reviews, 25, 1, pp. 3-23, (2023); 
+Shahzad M., Qu Y., Ur Rehman S., Zafar A.U., Ding X., Abbas J., Impact of knowledge absorptive capacity on corporate sustainability with mediating role of CSR: Analysis from the Asian context, Journal of Environmental Planning and Management, 63, 2, pp. 148-174, (2020); 
+Shen Z., Wang S., Boussemart J.P., Hao Y., Digital transition and green growth in Chinese agriculture, Technological Forecasting and Social Change, 181, (2022); 
+Soluk J., Miroshnychenko I., Kammerlander N., De Massis A., Family influence and digital business model innovation: The enabling role of dynamic capabilities, Entrepreneurship Theory and Practice, 45, 4, pp. 867-905, (2021); 
+Titus V., House J.M., Covin J.G., The influence of exploration on external corporate venturing activity, Journal of Management, 43, 5, pp. 1609-1630, (2017); 
+Troise C., Corvello V., Ghobadian A., O'Regan N., How can SMEs successfully navigate VUCA environment: The role of agility in the digital transformation era, Technological Forecasting and Social Change, 174, (2022); 
+Transforming our world: The 2030. Agenda for sustainable development, (2015); 
+Country development cooperation strategy (CDCS), 2022–2025, (2022); 
+Verhoef P.C., Broekhuizen T., Bart Y., Bhattacharya A., Dong J.Q., Fabian N., Haenlein M., Digital transformation: A multidisciplinary reflection and research agenda, Journal of Business Research, 122, pp. 889-901, (2021); 
+von Weltzien Hoivik H., Embedding CSR as a learning and knowledge creating process: The case for SMEs in Norway, Journal of Management Development, 30, 10, pp. 1067-1084, (2011); 
+Wagner M., Environmental management activities and sustainable HRM in German manufacturing firms–incidence, determinants, and outcomes, German Journal of Human Resource Management, 25, 2, pp. 157-177, (2011); 
+Wang Z., Sarkis J., Corporate social responsibility governance, outcomes, and financial performance, Journal of Cleaner Production, 162, pp. 1607-1616, (2017); 
+Wu C.-H., Tsai S.-B., Liu W., Shao X.-F., Sun R., Waclawek M., Eco-technology and eco-innovation for green sustainable growth, Ecological Chemistry and Engineering, 28, 1, pp. 7-10, (2021); 
+Wu L., Sun L., Chang Q., Zhang D., Qi P., How do digitalization capabilities enable open innovation in manufacturing enterprises? A multiple case study based on resource integration perspective, Technological Forecasting and Social Change, 184, (2022); 
+Yadav P.L., Han S.H., Kim H., Sustaining competitive advantage through corporate environmental performance, Business Strategy and the Environment, 26, 3, pp. 345-357, (2017); 
+Yang Y., Yang X., Xiao Z., Liu Z., Digitalization and environmental performance: An empirical analysis of Chinese textile and apparel industry, Journal of Cleaner Production, 382, (2023); 
+Zack M., McKeen J., Singh S., Knowledge management and organizational performance: An exploratory analysis, Journal of Knowledge Management, 13, 6, pp. 392-409, (2009); 
+Zoppelletto A., Orlandi L.B., Zardini A., Rossignoli C., Kraus S., Organizational roles in the context of digital transformation: A micro-level perspective, Journal of Business Research, 157, (2023)
+CORRESPONDENCE ADDRESS: F. Bhuiyan; Department of Accounting & Finance, University of Sussex, Business School, University of Sussex, Brighton, BN1 9RH, United Kingdom; email: f.bhuiyan@sussex.ac.uk
+PUBLISHER: John Wiley and Sons Ltd
+ISSN: 09644733
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Bus. Strategy Environ.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+

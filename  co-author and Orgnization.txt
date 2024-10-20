@@ -1,0 +1,84 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+695	"american university of sharjah, sharjah, united arab emirates"	-0.7786	-0.379	10	3	3	7	95	8.7872	2020.2857	13.5714	1.2553
+1007	"arizona state university, tempe, az, united states"	-0.7832	-0.3832	10	1	1	5	119	8.8764	2018.8	23.8	1.7753
+1008	"arizona state university, united states"	1.429	-0.0255	9	2	2	10	409	37.1061	2018.4	40.9	3.7106
+1308	"babson college, babson park, ma, united states"	-1.1208	-0.0873	11	3	3	12	148	15.934	2020.5	12.3333	1.3278
+1693	"birmingham city university, birmingham, united kingdom"	-0.6103	-0.0838	3	1	1	5	87	5.4904	2019	17.4	1.0981
+1870	"brigham young university, united states"	0.7497	-0.0101	4	1	1	5	10	1.1364	2019.8	2	0.2273
+2054	"business and information technology, missouri university of science and technology, rolla, mo, united states"	-0.6438	1.6733	12	2	26	13	2	0.1899	2021	0.1538	0.0146
+2602	"cefeo (centre for family entrepreneurship and ownership), jönköping international business school, jönköping, sweden"	-0.9531	-0.1687	7	3	3	7	86	26.5571	2023	12.2857	3.7939
+4851	"concordia university, montreal, qc, canada"	-0.1299	0.1214	5	1	1	5	83	9.0262	2021.6	16.6	1.8052
+5175	"d'amore-mckim school of business, northeastern university, united states"	1.0647	-0.0209	1	1	1	6	87	5.6499	2015.3333	14.5	0.9416
+5262	"dcu business school, dublin city university, dublin, ireland"	-0.7316	-0.1155	3	4	4	8	70	22.1475	2022.25	8.75	2.7684
+7729	"department of economics and business, university of catania, catania, italy"	-1.0977	-0.1972	7	2	2	12	38	4.8786	2021.25	3.1667	0.4066
+7821	"department of economics and management, university of trento, trento, italy"	-0.1735	-0.0866	8	1	1	7	43	8.7986	2021.8571	6.1429	1.2569
+8020	"department of economics, society, politics, university of urbino carlo bo, urbino, italy"	-1.135	-0.2052	7	1	2	5	10	0.6078	2020.8	2	0.1216
+8349	"department of entrepreneurship and strategy, lancaster university management school, lancaster, united kingdom"	-0.8948	-0.1485	3	6	8	9	105	19.8724	2022.2222	11.6667	2.208
+9896	"department of management and information systems, mississippi state university, united states"	0.9035	-0.0104	13	4	4	5	426	20.9355	2015.4	85.2	4.1871
+10256	"department of management, economics and quantitative methods, university of bergamo, bergamo, italy"	-1.1275	-0.2036	7	2	3	5	33	2.565	2020	6.6	0.513
+12596	"department of strategy and general management, esade business school, sant cugat del vallès, spain"	-0.942	-0.1551	3	2	6	7	1	0.177	2022	0.1429	0.0253
+13241	"diponegoro university, indonesia"	0.8905	-0.1057	14	2	4	6	1	0.0949	2023.1667	0.1667	0.0158
+13729	"d’amore-mckim school of business, northeastern university, boston, ma, united states"	-0.5612	-0.0759	3	2	4	8	57	8.1526	2020.875	7.125	1.0191
+14310	"esade business school, barcelona, spain"	-0.1297	0.1196	5	2	2	6	220	13.9829	2017.3333	36.6667	2.3305
+15396	"faculty of economics and management, free university of bozen-bolzano, bolzano, italy"	-0.7484	-0.125	3	5	5	7	374	47.6331	2022.5714	53.4286	6.8047
+16518	"florida atlantic university, boca raton, fl, united states"	-0.1197	0.0462	5	8	11	10	259	24.0903	2019.5	25.9	2.409
+16656	"free university of bozen-bolzano, bolzano, italy"	-0.4895	-0.0616	2	18	33	17	586	59.4845	2021.0588	34.4706	3.4991
+16673	"free university of bozen-bolzano, italy"	1.0035	-0.0227	1	9	22	15	441	56.226	2021.9333	29.4	3.7484
+17682	"harvard university, united states"	1.4607	-0.0258	9	2	2	8	76	30.0973	2019.75	9.5	3.7622
+17712	"hasselt university, diepenbeek, belgium"	-0.033	0.0552	5	2	2	7	57	5.0327	2020.2857	8.1429	0.719
+18493	"imd business school, lausanne, switzerland"	-0.6985	-0.126	2	7	19	14	150	38.1979	2022.7143	10.7143	2.7284
+18494	"imd business school, switzerland"	0.9837	-0.0286	1	7	14	5	27	8.1125	2023	5.4	1.6225
+18499	"imd, lausanne, switzerland"	-0.5279	-0.0922	2	3	3	5	43	8.8057	2023	8.6	1.7611
+18618	"indian institute of management ahmedabad, ahmedabad, india"	-0.5597	-0.0915	2	1	1	5	21	2.8406	2019.2	4.2	0.5681
+18941	"insead, france"	0.5864	-0.011	4	1	1	6	75	9.055	2020.6667	12.5	1.5092
+20302	"ipag entrepreneurship and family business center, ipag business school, nice, france"	-1.0393	-0.1847	7	4	4	6	55	8.1947	2021.8333	9.1667	1.3658
+20861	"kansas state university, united states"	0.8642	-0.0101	4	1	1	6	10	0.4463	2016.8333	1.6667	0.0744
+21495	"lancaster university management school, lancaster, united kingdom"	-0.4943	-0.1264	2	12	21	17	662	76.8351	2020.3529	38.9412	4.5197
+21497	"lancaster university management school, united kingdom"	1.0166	-0.0216	1	10	20	14	408	45.1869	2020.5	29.1429	3.2276
+21505	"lancaster university, lancaster, united kingdom"	-0.6393	-0.1032	2	11	22	17	543	65.9487	2021.2353	31.9412	3.8793
+21506	"lancaster university, united kingdom"	0.7105	-0.0334	1	18	29	16	881	82.5943	2020.6875	55.0625	5.1621
+21911	"louisiana state university, baton rouge, la, united states"	-0.1485	-0.0143	6	5	5	5	230	19.4548	2020.4	46	3.891
+22054	"maastricht university, maastricht, netherlands"	-0.1282	0.1088	5	1	1	6	386	20.9553	2016.8333	64.3333	3.4926
+22909	"mississippi state university, mississippi state, ms, united states"	0.0824	0.0083	6	5	5	9	458	40.1987	2020.2222	50.8889	4.4665
+22916	"mississippi state university, united states"	0.7404	-0.0108	4	7	8	5	159	12.1755	2020	31.8	2.4351
+23817	"northeastern university, boston, ma, united states"	-0.1278	0.1059	5	4	4	5	328	22.8223	2018	65.6	4.5645
+23826	"northeastern university, united states"	0.9712	-0.0263	1	8	10	9	144	21.8907	2020.4444	16	2.4323
+23859	"northwestern university, evanston, il, united states"	0.1655	0.038	6	5	6	5	307	20.2833	2017.6	61.4	4.0567
+24628	"politecnico di milano, italy"	1.0322	-0.032	1	7	9	6	409	28.7063	2021.3333	68.1667	4.7844
+24629	"politecnico di milano, milan, italy"	-0.5491	-0.0896	2	9	10	7	170	18.4028	2021.4286	24.2857	2.629
+26203	"school of business administration, american university of sharjah, sharjah, united arab emirates"	-0.7833	-0.383	10	1	1	7	45	3.3583	2018.7143	6.4286	0.4798
+27105	"school of engineering science, lut university, lahti, finland"	-0.9421	-0.1549	3	2	6	9	0	0	2022	0	0
+29729	"taylor's university, malaysia"	0.8906	-0.1058	14	2	4	15	19	1.5094	2023.3333	1.2667	0.1006
+29864	"tecnológico de monterrey, mexico"	-1.1282	-0.0872	11	1	1	10	203	15.3669	2018.9	20.3	1.5367
+29905	"telfer school of management, university of ottawa, ottawa, canada"	-0.6039	-0.0836	3	3	5	9	89	9.8	2020.7778	9.8889	1.0889
+29967	"texas tech university, lubbock, tx, united states"	0.154	0.0296	6	2	2	9	259	21.545	2018.5556	28.7778	2.3939
+30341	"the university of texas at tyler, tyler, tx, united states"	-0.124	0.0784	5	2	4	7	100	12.2027	2019.8571	14.2857	1.7432
+32038	"university of alberta, canada"	0.5785	-0.0112	4	8	9	5	292	21.8569	2019.6	58.4	4.3714
+32040	"university of alberta, edmonton, ab, canada"	0.0482	0.0567	6	10	11	11	737	51.7202	2017.8182	67	4.7018
+32159	"university of bergamo, bergamo, italy"	-0.4721	-0.0918	2	4	6	8	319	19.7093	2019.625	39.875	2.4637
+32161	"university of bergamo, italy"	0.9676	-0.0085	13	5	5	9	539	31.5491	2016.8889	59.8889	3.5055
+32181	"university of bologna, italy"	0.9362	-0.0265	1	4	4	6	117	37.5494	2021.8333	19.5	6.2582
+32239	"university of calgary, canada"	0.8209	-0.0131	4	6	7	5	234	17.7821	2018.8	46.8	3.5564
+32330	"university of central florida, orlando, fl, united states"	-0.302	-0.0658	8	6	7	6	180	19.9394	2020.1667	30	3.3232
+32484	"university of edinburgh, edinburgh, united kingdom"	-0.6627	-0.1001	3	3	3	5	77	5.4783	2018.8	15.4	1.0957
+32569	"university of georgia, united states"	0.8612	-0.0103	4	2	2	5	29	4.3136	2018.2	5.8	0.8627
+32635	"university of hong kong, hong kong"	-0.1712	-0.0758	8	7	8	8	149	13.6595	2017.625	18.625	1.7074
+32797	"university of liechtenstein, liechtenstein"	1.0545	-0.0219	1	1	1	5	315	20.7489	2018.6	63	4.1498
+33131	"university of north carolina at greensboro, united states"	0.6724	-0.0105	4	2	2	5	72	7.2877	2020.4	14.4	1.4575
+33154	"university of north texas, denton, tx, united states"	0.1256	0.028	6	3	3	6	298	30.2575	2019.6667	49.6667	5.0429
+33203	"university of ottawa, ottawa, on, canada"	-0.3217	-0.0399	8	6	8	11	563	44.4746	2020.4545	51.1818	4.0431
+33213	"university of oxford, oxford, united kingdom"	-0.6429	-0.0983	3	2	2	6	40	8.4916	2022	6.6667	1.4153
+33224	"university of palermo, palermo, italy"	-0.1725	-0.0824	8	8	9	6	142	18.2293	2022	23.6667	3.0382
+33280	"university of pittsburgh, united states"	1.4874	-0.0261	9	1	1	5	175	7.7248	2019.4	35	1.545
+33518	"university of st. gallen, switzerland"	1.0014	-0.0304	1	5	5	5	316	20.1679	2018.8	63.2	4.0336
+33566	"university of tartu, tartu, estonia"	-0.5187	-0.0561	2	1	2	11	230	23.7746	2019.7273	20.9091	2.1613
+33700	"university of toronto, canada"	1.482	-0.0261	9	2	2	6	227	35.5941	2018.1667	37.8333	5.9323
+33771	"university of vermont, burlington, vt, united states"	0.1954	0.0309	6	5	5	5	150	10.0062	2018.4	30	2.0012
+33816	"university of warwick, united kingdom"	1.0531	-0.0333	1	1	1	6	63	4.6368	2019	10.5	0.7728
+34255	"utah state university, logan, ut, united states"	-1.1282	-0.087	11	1	1	5	43	7.5775	2021.4	8.6	1.5155
+34869	"witten institute for family business, witten/herdecke university, witten, germany"	-1.0483	-0.1865	7	1	1	22	538	45.997	2021.2727	24.4545	2.0908
+34919	"worcester polytechnic institute, united states"	0.977	-0.0074	13	1	1	5	79	7.5533	2019	15.8	1.5107
+35183	"zhejiang university city college, hangzhou, zhejiang, china"	-0.6413	1.6384	12	3	27	14	38	3.1405	2020.8571	2.7143	0.2243
+35187	"zhejiang university, china"	0.7629	-0.0184	1	18	32	14	773	92.3319	2020.2857	55.2143	6.5951
+35192	"zhejiang university, hangzhou, china"	-0.3423	-0.0758	2	12	19	9	323	32.5204	2021	35.8889	3.6134
+35193	"zhejiang university, hangzhou, zhejiang, china"	-0.6027	1.578	12	3	27	14	95	5.976	2020.7857	6.7857	0.4269
